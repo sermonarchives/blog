@@ -2,6 +2,9 @@ baseURL = "https://sermonarchives.github.io/"
 languageCode = "en-us"
 title = "Sermon Archives"
 theme = "hugo_theme_robust"
+googleAnalytics = "UA-106741233-1" # Optional
+
+
 [params]
   dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
@@ -9,12 +12,9 @@ theme = "hugo_theme_robust"
   fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
   logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
-  thumbnail = "images/avatar.jpg"
-  name = "John Doe"
-  description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
-  facebook = "https://www.facebook.com/daisuke.tsuji.735"
-  twitter = "https://twitter.com/dim0627"
-  github = "https://github.com/dim0627"
+  thumbnail = "images/pastorlarson-1974-610.png"
+  name = "Steven M. Larson"
+  description = "<p>This is a site containing the sermon archives of Pastor Steve Larson, who created and preached sermons from 1969 to 1997.</p><p>This site was created by his son, Ross.</p>"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
