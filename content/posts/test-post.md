@@ -5,6 +5,7 @@ categories: [""]
 tags: [""]
 rcl_year: ""
 rcl_season: ""
+thumbnail: "images/background.jpg"
 ---
 
 This is a test post to verify functionality.
