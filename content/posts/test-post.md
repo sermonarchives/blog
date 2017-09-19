@@ -5,7 +5,7 @@ categories: [""]
 tags: [""]
 rcl_year: ""
 rcl_season: ""
-thumbnail: "images/background.jpg"
+thumbnail: "images/sermon-background-01.png"
 ---
 
 This is a test post to verify functionality.
