@@ -1,20 +1,6 @@
 baseURL = "https://sermonarchives.github.io/"
 languageCode = "en-us"
 title = "Sermon Archives"
-theme = "hugo_theme_robust"
+theme = "ananke"
 googleAnalytics = "UA-106741233-1" # Optional
-
-
-[params]
-  dateformat = "Jan 2, 2006" # Optional
-  # Fonts settings.
-  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
-  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
-[params.author]
-  thumbnail = "images/pastorlarson-1974-610.png"
-  name = "Steven M. Larson"
-  description = "<p>This is a site containing the sermon archives of Pastor Steve Larson, who created and preached sermons from 1969 to 1997.</p><p>This site was created by his son, Ross.</p>"
-
-[outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+SectionPagesMenu = "main"
