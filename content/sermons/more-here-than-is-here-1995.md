@@ -12,7 +12,6 @@ sermon_audio: false
 featured_image: "/images/thumbs/0004.png"
 sermon_number: "0004"
 ---
-
 _This is a sermon from 1995, preached for [Transfiguration Sunday C](http://lectionary.library.vanderbilt.edu/texts.php?id=116). I found two copies of this sermon in the archives - one was black and white, the other was higlighted. I'm including the highlighted version here._
 
 _The sermon refers to "A Study of Generations". I've found an article referring to the study in PDF form [here](http://www.ctsfw.net/media/pdfs/surburgstudyofgenerations.pdf)._

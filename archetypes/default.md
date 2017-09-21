@@ -5,7 +5,7 @@ categories: ["sermons"]
 tags: [""]
 rcl_year: ""
 rcl_season: ""
-sermon_date: {{ .Date.Format "2006-01-02" }}
+sermon_date: {{ .Date }}
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
