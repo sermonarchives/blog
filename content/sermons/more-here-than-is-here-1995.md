@@ -2,7 +2,7 @@
 title: "WHEN THERE'S MORE HERE THAN IS HERE"
 date: 2017-09-20T20:59:53-05:00
 categories: ["sermons"]
-tags: ["TransfigC", "Epiphany", "Normandy", "D-Day", "Transfiguration"]
+tags: ["TransfigC", "Epiphany", "Normandy", "D-Day", "Transfiguration", "1995"]
 rcl_year: "C"
 rcl_season: "Epiphany"
 sermon_date: 1995-02-26

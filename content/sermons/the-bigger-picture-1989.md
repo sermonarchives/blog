@@ -2,7 +2,7 @@
 title: "The Bigger Picture"
 date: 2017-09-20T21:29:29-05:00
 categories: ["sermons"]
-tags: ["Epiphany", "Buena Vista Park", "Jesus of Nazareth"]
+tags: ["Epiphany", "Buena Vista Park", "Jesus of Nazareth", "1989"]
 rcl_year: "C"
 rcl_season: "Epiphany"
 sermon_date: 1989-02-05

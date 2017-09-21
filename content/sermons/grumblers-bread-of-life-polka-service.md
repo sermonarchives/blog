@@ -2,7 +2,7 @@
 title: "FOR GRUMBLERS, THE BREAD OF LIFE"
 date: 2017-09-19T21:58:04-05:00
 categories: ["sermons"]
-tags: ["11PentB", "Pentecost"]
+tags: ["11PentB", "Pentecost", "1994"]
 rcl_year: "B"
 rcl_season: "Pentecost"
 sermon_date: 1994-08-07

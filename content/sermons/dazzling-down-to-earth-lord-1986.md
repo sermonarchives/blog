@@ -2,7 +2,7 @@
 title: "A Dazzling, Down-to-Earth Lord"
 date: 2017-09-20T22:18:45-05:00
 categories: ["sermons"]
-tags: ["Epiphany", "Transfiguration", "Peanuts", "Death of a Salesman"]
+tags: ["Epiphany", "Transfiguration", "Peanuts", "Death of a Salesman", "1986"]
 rcl_year: "C"
 rcl_season: "Epiphany"
 sermon_date: 1986-02-09
