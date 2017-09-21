@@ -12,13 +12,15 @@ sermon_audio: true
 featured_image: "/images/thumbs/0003.png"
 sermon_number: "0003"
 ---
-_This sermon was preached in 1997 in Seymour, Wisconsin. It was preached on the morning of a Packer Game - [The NFC Championship in Green Bay before Super Bowl XXXI](http://www.pro-football-reference.com/boxscores/199701120gnb.htm)._
+_This sermon was preached in 1997 in Seymour, Wisconsin._
+
+<!--more-->
+
+_It was preached on the morning of a Packer Game - [The NFC Championship in Green Bay before Super Bowl XXXI](http://www.pro-football-reference.com/boxscores/199701120gnb.htm)._
 
 _The gospel text is from [The Baptism of our Lord B](http://lectionary.library.vanderbilt.edu/texts.php?id=60), Mark 1:1-11._
 
 _Audio is available._
-
-<!--more-->
 
 {{< youtube qFdN82Qth2s >}}
 

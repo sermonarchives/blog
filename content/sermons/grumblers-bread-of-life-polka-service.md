@@ -12,11 +12,15 @@ sermon_audio: false
 featured_image: "/images/thumbs/polkathumbnail.png"
 sermon_number: "0001"
 ---
-_This sermon was preached at Emmanuel Lutheran Church, as a part of a "Polka Service" featuring music by "Jerry Voelker and His Jolly Gents". The text is from the [Eleventh Sunday of Pentecost B](http://lectionary.library.vanderbilt.edu/texts.php?id=214)._
+_This sermon was preached at Emmanuel Lutheran Church, as a part of a "Polka Service" featuring music by "Jerry Voelker and His Jolly Gents"._
+
+<!--more-->
+
+_The text is from the [Eleventh Sunday of Pentecost B](http://lectionary.library.vanderbilt.edu/texts.php?id=214)._
 
  _Exodus 16: 11-12 is listed as the sermon text._
 
- <!--more-->
+
 
 _In addition to the sermon text, a scanned copy of the bulletin is included._
 
