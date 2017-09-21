@@ -1,5 +1,5 @@
 ---
-title: "Does Life Have A Purpose 1978"
+title: "Does Life Have A Purpose?"
 date: 2017-09-20T22:54:16-05:00
 categories: ["sermons"]
 tags: ["Lent", "handwritten", "1978", "Ash Wednesday"]
