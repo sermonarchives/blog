@@ -12,7 +12,7 @@ sermon_audio: false
 featured_image: "/images/thumbs/0002.png"
 sermon_number: "0002"
 ---
-_Date of sermon unknown. I would presume this sermon is from the late 1960's or early 1970's. A note is written at the top, denoting it as the Second Sunday of Epiphany C._
+_Date of sermon unknown. I would presume this sermon is from the late 1960's or early 1970's. A note is written at the top, denoting it as the [Second Sunday of Epiphany C](http://lectionary.library.vanderbilt.edu/texts.php?id=108)._
 
 <!--more-->
 
