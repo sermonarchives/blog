@@ -14,3 +14,8 @@ featured_image: '/images/sermon-background-02.png'
 The sermon archive contains sermons, weddings, funerals, and other related content.
 
 _This site was created by his son, Ross._
+
+## Technical Info
+Sermon Archives uses the [Hugo](https://gohugo.io/) static site templating engine.
+Material for this site has been obtained from 3.5 inch floppy disks, scanned from paper, and ripped from cassette tapes.
+Temporary locations for this data include Trello boards and Google Drive.  Links to those temporary locations are available upon request.
