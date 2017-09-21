@@ -9,7 +9,7 @@ sermon_date: 1977-02-20
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-featured_image: "/images/thumbs/pastorlarson.png"
+featured_image: "/images/sermons/0007/transfigurationsunday-luke9-2-20-1977-1024x1024.jpg"
 sermon_number: "0007"
 ---
 _This is a handwritten sermon from 1977._

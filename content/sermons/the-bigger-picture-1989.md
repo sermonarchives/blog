@@ -9,7 +9,7 @@ sermon_date: 1989-02-05
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-featured_image: ""
+featured_image: "/images/sermons/0005/transfigurationsunday-luke9-2-5-1989-1-1024x1024.jpg"
 sermon_number: "0005"
 ---
 _This sermon was preached in February of 1989 for Transfiguration Sunday._
