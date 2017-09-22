@@ -9,7 +9,7 @@ sermon_date: 1974-04-14
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-thumbnail: "/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large-.jpg"
+thumbnail: "/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large.jpeg"
 sermon_number: "0016"
 ---
 _Scanned, handwritten sermon. No gospel text noted, but Easter Festival and date of sermon were listed._
@@ -21,4 +21,4 @@ _The hymn following this sermon is listed as "Now Let the Vault...#103", which i
 
 **What A Way To Live - Easter Festival - 4/14/1974**
 
-{{% img src="/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large-.jpg" w="1200" %}}
+{{% img src="/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large.jpeg" w="1200" %}}
