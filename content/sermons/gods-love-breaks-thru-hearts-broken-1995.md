@@ -2,7 +2,7 @@
 title: "GOD'S LOVE BREAKS THROUGH WHEN HEARTS ARE BROKEN TEARFULLY"
 date: 2017-09-21T21:45:47-05:00
 categories: ["sermons"]
-tags: ["Lent", "Ash Wednesday", "1995"]
+tags: ["Lent", "Ash Wednesday", "1995", "Wizard of Oz"]
 rcl_year: "C"
 rcl_season: "Lent"
 sermon_date: 1995-03-01
