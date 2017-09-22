@@ -9,7 +9,7 @@ sermon_date: 1994-08-07
 sermon_scan: false
 sermon_text: true
 sermon_audio: false
-featured_image: "/images/thumbs/polkathumbnail.png"
+thumbnail: "/images/thumbs/polkathumbnail.png"
 sermon_number: "0001"
 ---
 _This sermon was preached at Emmanuel Lutheran Church, as a part of a "Polka Service" featuring music by "Jerry Voelker and His Jolly Gents"._

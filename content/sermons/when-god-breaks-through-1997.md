@@ -9,7 +9,7 @@ sermon_date: 1997-01-12
 sermon_scan: false
 sermon_text: true
 sermon_audio: true
-featured_image: "/images/thumbs/0003.png"
+thumbnail: "/images/thumbs/0003.png"
 sermon_number: "0003"
 ---
 _This sermon was preached in 1997 in Seymour, Wisconsin._

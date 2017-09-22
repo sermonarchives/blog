@@ -9,7 +9,7 @@ sermon_date: 1986-02-09
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-featured_image: "/images/sermons/0006/transfigurationsunday-luke9-2-9-1986-1-1024x1024.jpg"
+thumbnail: "/images/sermons/0006/transfigurationsunday-luke9-2-9-1986-1-1024x1024.jpg"
 sermon_number: "0006"
 ---
 _This sermon was preached in February of 1986 for Transfigration Sunday.  Presumably, this was preached in Wausau, WI._

@@ -9,7 +9,7 @@ sermon_date: 1974-02-24
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-featured_image: "/images/sermons/0008/transfigurationsunday-luke9-2-24-1974-1024x1024.jpg"
+thumbnail: "/images/sermons/0008/transfigurationsunday-luke9-2-24-1974-1024x1024.jpg"
 sermon_number: "0008"
 ---
 _This sermon is from 1974, for Transfiguration Sunday._

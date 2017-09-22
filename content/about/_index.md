@@ -1,7 +1,8 @@
 ---
 title: "About"
 description: ""
-featured_image: '/images/sermon-background-02.png'
+categories: ["sermons"]
+thumbnail: '/images/sermon-background-02.png'
 ---
 {{< figure src="/images/pastorlarson-1974-610.png" title="A photo of Pastor Larson from 1974" >}}
 

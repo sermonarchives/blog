@@ -9,7 +9,7 @@ sermon_date: 1978-02-08
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-featured_image: "/images/sermons/0009/ashwed-col1-2-8-1978-1024x1024.jpg"
+thumbnail: "/images/sermons/0009/ashwed-col1-2-8-1978-1024x1024.jpg"
 sermon_number: "0009"
 ---
 _Handwritten Ash Wednesday sermon from 1978. Sermon lists Col. 1:10 as the inspiration._

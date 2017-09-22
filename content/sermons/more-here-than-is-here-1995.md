@@ -9,7 +9,7 @@ sermon_date: 1995-02-26
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
-featured_image: "/images/thumbs/0004.png"
+thumbnail: "/images/thumbs/0004.png"
 sermon_number: "0004"
 ---
 _I found two copies of this sermon in the archives - one was black and white, the other was higlighted. I'm including the highlighted version here._
