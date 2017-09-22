@@ -9,8 +9,8 @@ sermon_date: 1977-04-10
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-thumbnail: "/images/thumbs/pastorlarson.png"
-sermon_number: "0001"
+thumbnail: "/images/sermons/0017/easterc-sunrise-4-10-1977-resurrectionisreal-large.jpg"
+sermon_number: "0017"
 ---
 _Scanned, handwritten sermon for Easter Sunrise in 1977. Gospel text noted as Luke 24._
 
