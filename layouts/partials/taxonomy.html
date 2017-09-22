@@ -1,0 +1,8 @@
+<section class="sidebar">
+  <header>{{ .key | upper }}</header>
+  <div>
+    <ul class="terms">
+      {{ range first 100 .value.ByCount }}<li><a href="{{ $.baseurl}}{{ $.key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+    </ul>
+  </div>
+</section>
