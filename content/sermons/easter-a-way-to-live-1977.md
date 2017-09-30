@@ -1,5 +1,5 @@
 ---
-title: "Easter A Way To Live"
+title: "Easter: A Way To Live"
 date: 2017-09-22T11:18:52-05:00
 categories: ["sermons"]
 tags: ["Easter", "1977"]
