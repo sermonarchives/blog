@@ -6,7 +6,7 @@ tags: ["11PentB", "Pentecost", "1994"]
 rcl_year: "B"
 rcl_season: "Pentecost"
 sermon_date: 1994-08-07
-sermon_scan: false
+sermon_scan: true
 sermon_text: true
 sermon_audio: false
 thumbnail: "/images/thumbs/polkathumbnail.png"
@@ -25,6 +25,10 @@ _The text is from the [Eleventh Sunday of Pentecost B](http://lectionary.library
 _In addition to the sermon text, a scanned copy of the bulletin is included._
 
 **FOR GRUMBLERS, THE BREAD OF LIFE 11PentB (8/7/94) Ex.16:11-12**
+
+{{% img src="/images/sermons/0001/11PentB-Grumblers-8-7-1994-p0001.jpg" w="1200" %}}
+
+{{% img src="/images/sermons/0001/11PentB-Grumblers-8-7-1994-p0002.jpg" w="1200" %}}
 
 The Lord spoke to Moses and said. 'I have heard the complaining of the Israelites; say to them, "At twilight you shall eat meat, and in the morning you shall have your fill of bread, then you shall know that I am the Lord your God".'
 
