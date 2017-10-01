@@ -50,4 +50,4 @@ In lowliness we bow before him, then, as again and again he answers the lenten q
 
 {{% img src="/images/sermons/0014/1456116449_ashwed-psalm51-3-1-1995-1-1024x1024.jpg" w="1200" %}}
 
-{{% img src="/images/sermons/0014/1456116449_ashwed-psalm51-3-1-1995-2-1024x1024.jpg" w="1200" %}}
+{{% img src="/images/sermons/0014/ashwed-psalm51-3-1-1995-2-1024x1024.jpg" w="1200" %}}
