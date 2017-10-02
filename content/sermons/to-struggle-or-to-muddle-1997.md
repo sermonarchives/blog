@@ -18,6 +18,8 @@ _Audio is available for this sermon, as well as text.  It was preached for the F
 
 _The gospel text is listed as Mark 1:12-13  This sermon follows the text for the [First Sunday of Lent, Year B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=71)_
 
+_There is an interesting reference to ["The Screwtape Letters" by C.S. Lewis](https://en.wikipedia.org/wiki/The_Screwtape_Letters)._
+
 **TO STRUGGLE OR TO MUDDLE 1LentB (2/16/97) Mk 1:12-13**
 
 {{< youtube XMfn8NQ96Ng >}}
