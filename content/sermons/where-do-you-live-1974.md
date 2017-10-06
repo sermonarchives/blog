@@ -12,7 +12,7 @@ sermon_audio: false
 thumbnail: "/images/sermons/0030/ReformationSunday-10-27-1974.jpg"
 sermon_number: "0030"
 ---
-_This is a typed sermon for Reformation Sunday of 1994.  The gospel text is listed as John 8:31-36.  It's one of the only sermons I've seen with one of the parts of the sermon scratched out, as if it was preached and then removed._
+_This is a typed sermon for Reformation Sunday of 1974.  The gospel text is listed as John 8:31-36.  It's one of the only sermons I've seen with one of the parts of the sermon scratched out, as if it was preached and then removed. Then again, it's also the only sermon I've seen where he suggests sleeping during the sermon._
 
 <!--more-->
 
