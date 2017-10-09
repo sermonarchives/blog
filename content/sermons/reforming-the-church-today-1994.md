@@ -9,7 +9,7 @@ sermon_date: 1994-10-30
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
-thumbnail: "/images/sermons/0029/Reformation-John8-10-30-1994-1.jpg"
+thumbnail: "/images/sermons/0029/Reformation-John8-10-30-1994-1.png"
 sermon_number: "0029"
 ---
 _With the 500th anniversary of the Reformation coming up, I figured I'd start posting all of the Reformation Sunday sermons that I've found so far.  This one is from October of 1994._
@@ -20,9 +20,9 @@ _The gospel text is listed as John 8:31-32. I don't think that Reformation Sunda
 
 
 **RE-FORMING THE CHURCH TODAY Ref.Sun.(10/30/94) Jn.8:31-32**
-{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-1.jpg" w="1200" %}}
+{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-1.png" w="1200" %}}
 
-{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-2.jpg" w="1200" %}}
+{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-2.png" w="1200" %}}
 
 Dear friends in Christ. grace & peace...
 
