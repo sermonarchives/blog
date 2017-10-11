@@ -1,5 +1,5 @@
 ---
-title: "Who Me Not Free?"
+title: "Who Me, Not Free?"
 date: 2017-10-09T22:30:46-05:00
 categories: ["sermons"]
 tags: ["Reformation Sunday", "1975", "handwritten"]
