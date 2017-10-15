@@ -2,7 +2,7 @@
 title: "Remembering And Resembling"
 date: 2017-10-10T21:29:46-05:00
 categories: ["sermons"]
-tags: ["All Saints Day", "Carthage", "Marta", "1994"]
+tags: ["All Saints Day", "Carthage", "Marta", "1994", "Guest Preaching"]
 rcl_year: ""
 rcl_season: "Pentecost"
 sermon_date: 1994-11-01
