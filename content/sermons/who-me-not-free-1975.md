@@ -12,9 +12,13 @@ sermon_audio: false
 thumbnail: "/images/sermons/0041/Reformation-John8-10-26-1975.png"
 sermon_number: "0041"
 ---
-_This is a Reformation Sunday sermon from October of 1975.  The gospel text is John 8:31-36. It references_
+_This is a Reformation Sunday sermon from October of 1975.  The gospel text is John 8:31-36._
 
 <!--more-->
+
+_The sermon references tornadoes that occurred in Xenia, Ohio in 1974.  I located a video online that references the storm._
+
+{{< youtube UArq6EGEn6s >}}
 
 **Who Me, Not Free? - Reformation Sunday (10/26/1975)**
 
