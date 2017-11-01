@@ -16,7 +16,9 @@ _This is a Reformation Sunday sermon from 1991.  The gospel text is listed as Ro
 
 <!--more-->
 
-_There is a reference to one of Luther's treatises, called ["On the Freedom of a Christian" (also known as "A Treatise on Christian Liberty")](https://en.wikipedia.org/wiki/On_the_Freedom_of_a_Christian)_
+_There is a reference to one of Luther's treatises, called ["On the Freedom of a Christian" (also known as "A Treatise on Christian Liberty")](https://www.checkluther.com/wp-content/uploads/1520-Concerning-Christian-Liberty.pdf)._
+
+_Audio of the treatise is available [here](https://librivox.org/concerning-christian-liberty-by-martin-luther/)._
 
 **Perfectly Free, Yet Servants Of All - Reformation Sunday (10/27/1991)**
 
