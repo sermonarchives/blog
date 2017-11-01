@@ -16,7 +16,7 @@ _This is a Reformation Sunday sermon from October of 1978._
 
 <!--more-->
 
-_There is a reference to the [stavkirke in Rapids City, South Dakota](http://www.chapel-in-the-hills.org/). It is a copy of the [stavkirke in Borgund, Norway](https://en.wikipedia.org/wiki/BorgundStaveChurch)._
+_There is a reference to the [stavkirke in Rapids City, South Dakota](http://www.chapel-in-the-hills.org/). It is a copy of the [stavkirke in Borgund, Norway](http://scandinavia.life/borgund-stave-church/)._
 
 **Seeking His Truth Today - Reformation Sunday (10/29/1978)**
 
