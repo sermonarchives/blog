@@ -12,11 +12,15 @@ sermon_audio: true
 thumbnail: "/images/thumbs/0048-expecting.png"
 sermon_number: "0048"
 ---
-This is an Advent sermon from 1996. Audio is available!
+_This is an Advent sermon from 1996. Audio is available!_
 
 <!--more-->
 
-This sermon mentions the novel ["Baby Love" by Joyce Mayrand](https://www.goodreads.com/book/show/1026629.Baby_Love). There's also a reference to Charlie Brown. The Gospel text is listed as Luke 1:37, which fits in with the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=51).
+_This sermon mentions the novel_ [Baby Love by Joyce Mayrand](https://www.goodreads.com/book/show/1026629.Baby_Love).
+
+_The Gospel text is listed as Luke 1:37, which fits in with the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=51)._
+
+_The context of this sermon is important to understand before listening.  At this point, Pastor Larson has already been diagnosed with terminal metastatic cancer.  He is scheduled to travel to Milwaukee for chemotherapy between Christmas and the New Year. Expectation has a different meaning here._
 
 # **"Expecting" 4AdventB (12/22/96) Luke 1:37**
 
