@@ -6,10 +6,10 @@ tags: ["Christmas", "1995", "1ChristA"]
 rcl_year: "A"
 rcl_season: "Christmas"
 sermon_date: 1995-12-31
-sermon_scan: false
+sermon_scan: true
 sermon_text: true
 sermon_audio: false
-thumbnail: "/images/thumbs/pastorlarson.png"
+thumbnail: "/images/sermons/0023/1ChristmasA-12-31-1995-p1.jpg"
 sermon_number: "0023"
 ---
 _This sermon was written on the last day of 1995 for the First Sunday of Christmas._
@@ -18,7 +18,11 @@ _This sermon was written on the last day of 1995 for the First Sunday of Christm
 
 _The gospel text is listed as Matthew 2: 13-23 and the filename of the sermon in Wordperfect was "1CHRISTA.95", so this is almost certainly a sermon from [Year A of the First Sunday of Christmas in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=8)._
 
-**Hindsight: The First Sunday after Christmas - 12/31/1995**
+# **Hindsight: The First Sunday after Christmas - 12/31/1995**
+
+{{% img src="/images/sermons/0023/1ChristmasA-12-31-1995-p1.jpg" w="1200" %}}
+
+{{% img src="/images/sermons/0023/1ChristmasA-12-31-1995-p2.jpg" w="1200" %}}
 
 It's incredible how different things look when you are looking back at them. I can remember moving to the West Coast 25 years ago, really feeling like an alien. Everything was so different, the trees, the landscape, the highways, the homes people lived in. Now, as I look back upon that journey to a foreign land, I realize it wasn't just the place that was strange, it was how I looked at things, with much to learn.
 
