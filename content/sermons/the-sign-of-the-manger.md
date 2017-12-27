@@ -12,7 +12,7 @@ sermon_audio: false
 thumbnail: "/images/sermons/0051/ChristmasEve-12-24-1983.jpg"
 sermon_number: "0051"
 ---
-_This is a Christmas Eve sermon from 1983.  it was likely preached at St.Stephen Lutheran Church in Wausau._
+_This is a Christmas Eve sermon from 1983.  It was likely preached at St.Stephen Lutheran Church in Wausau._
 
 <!--more-->
 
