@@ -19,12 +19,11 @@ _This is a sermon from October of 1996 for the Pentecost season.  It appears to 
 
 _The gospel text is listed as Matthew 21:40, and the filename of the sermon was "19PENTA.96R", but the gospel text actually matches the [18th Sunday of Pentecost for Year A in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=162)._
 
-**"IT'S NOT EASY BEING A LANDLORD" 19 Pent A (RCL) (10/6/96) Mt.21:40**
+# **"IT'S NOT EASY BEING A LANDLORD" 19 Pent A (RCL) (10/6/96) Mt.21:40**
 
 {{% img src="/images/sermons/0026/19PentA-10-6-1996-1.jpg" w="1200" %}}
 
 {{% img src="/images/sermons/0026/19PentA-10-6-1996-2.jpg" w="1200" %}}
-
 
 Dear friends in Christ....
 
