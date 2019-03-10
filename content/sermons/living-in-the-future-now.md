@@ -2,7 +2,7 @@
 title: "Living in the Future Now"
 date: 2019-03-09T22:52:16-06:00
 categories: ["sermons"]
-tags: ["MLK, Moses, mountaintop, transfiguration, 1994, back-to-the-future"]
+tags: ["MLK", "Moses", "mountaintop", "transfiguration", "1994", "back-to-the-future"]
 rcl_year: "B"
 rcl_season: "Epiphany"
 sermon_date: 1994-02-13
