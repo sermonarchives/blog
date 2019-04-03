@@ -12,7 +12,7 @@ sermon_audio: false
 thumbnail: "/images/sermons/0062/3LentC-3-22-1992-1-1200.jpg"
 sermon_number: "0062"
 ---
-_This Lenten sermon is from 1992 and appears to be printed out from a computer, then highlighted in yellow and marked with black ink. The text mentions that it is World Hunger Sunday. Presumably, the sermon was preached in Seymour, WI._
+_This Lenten sermon is from 1992 and appears to be printed out from a computer, then highlighted in yellow and marked with black ink. The text mentions that it is World Hunger Sunday. The sermon was preached in Seymour, WI._
 
 <!--more-->
 
