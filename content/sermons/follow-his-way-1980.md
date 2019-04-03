@@ -18,7 +18,7 @@ _This is a sermon from 1980 that appears to have been typed on a typewriter and 
 
 _The Gospel text is listed as Luke 13:34, corresponding to the [Second Sunday of Lent in year C](https://lectionary.library.vanderbilt.edu/texts.php?id=119) of the Revised Common Lectionary._
 
-**Follow His Way - Second Sunday of Lent (03/02/1980)**
+# Follow His Way - Second Sunday of Lent (03/02/1980)
 
 {{% img src="/images/sermons/0061/2Lent-Luke13-3-2-1980-1-scaled.jpg" w="1200" %}}
 
