@@ -38,7 +38,7 @@ p {
 }
 
 a {
-  color: #2196f3;
+  color: #f32121;
   text-decoration: none;
   transition-duration: .3s;
 }
@@ -334,10 +334,11 @@ article.sn > .article-body em {
 }
 
 article.sn > .article-body strong {
+    font-style: bold;
 }
 
 article.sn > .article-body em {
-  color: #8bc34a;
+  font-style: italic;
 }
 
 article.sn > .article-body code,
