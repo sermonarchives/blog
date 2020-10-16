@@ -20,9 +20,9 @@ _The gospel text is listed as John 8:31-32. I don't think that Reformation Sunda
 
 
 **RE-FORMING THE CHURCH TODAY Ref.Sun.(10/30/94) Jn.8:31-32**
-{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0029/Reformation-John8-10-30-1994-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0029/Reformation-John8-10-30-1994-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0029/Reformation-John8-10-30-1994-2.png" width="1200" >}}
 
 Dear friends in Christ. grace & peace...
 

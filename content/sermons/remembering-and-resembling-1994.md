@@ -20,9 +20,9 @@ _The gospel text is listed as Luke 5:1-12, which actually matches the [Fifth Sun
 
 **Remembering And Resembling - All Saints Day (11/1/1994)**
 
-{{% img src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-highlighted-p0001.png" w="1200" %}}
+{{< figure src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-highlighted-p0001.png" width="1200" >}}
 
-{{% img src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-highlighted-p0002.png" w="1200" %}}
+{{< figure src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-highlighted-p0002.png" width="1200" >}}
 
 Dear friends in Christ, grace and peace from God our Father and from our Lord Jesus Christ.
 
@@ -51,6 +51,6 @@ Alleluia! Alleluia!"
 
 +The peace of God which passes all understanding keep us one with all the saints in Christ Jesus. Amen.
 
-{{% img src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-bulletin-cover.png" w="1200" %}}
+{{< figure src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-bulletin-cover.png" width="1200" >}}
 
-{{% img src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-bulletin.png" w="1200" %}}
+{{< figure src="/images/sermons/0042/AllSaintsDay-Carthage-11-1-1994-bulletin.png" width="1200" >}}

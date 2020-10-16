@@ -18,6 +18,6 @@ _This is a lenten sermon from March of 1992. It is scanned and highlighted, and 
 
 _The gospel text is from Luke 4, matching the text for the [first Sunday of Lent, Year C](https://lectionary.library.vanderbilt.edu/texts.php?id=118). At the end of the sermon, there is a reference to Hymn 229, "[A Mighty Fortress Is Our God](https://hymnary.org/hymn/LBoW1978/229)"._
 
-{{% img src="/images/sermons/0060/1LentC-3-8-1992-1-1024.jpg" w="1024" %}}
+{{< figure src="/images/sermons/0060/1LentC-3-8-1992-1-1024.jpg" width="1024" >}}
 
-{{% img src="/images/sermons/0060/1LentC-3-8-1992-2-1024.jpg" w="1024" %}}
+{{< figure src="/images/sermons/0060/1LentC-3-8-1992-2-1024.jpg" width="1024" >}}

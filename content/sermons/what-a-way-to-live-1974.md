@@ -21,4 +21,4 @@ _The hymn following this sermon is listed as "Now Let the Vault...#103", which i
 
 **What A Way To Live - Easter Festival - 4/14/1974**
 
-{{% img src="/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large.jpeg" w="1200" %}}
+{{< figure src="/images/sermons/0016/easterc-festival-4-14-1974-whatawaytolive-large.jpeg" width="1200" >}}

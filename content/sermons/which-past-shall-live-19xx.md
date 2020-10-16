@@ -18,6 +18,6 @@ _This is an undated sermon that has "Reformation" written at the top, likely mak
 
 **Which Past Shall Live? - Reformation Sunday**
 
-{{% img src="/images/sermons/0032/Reformation-John8-WhichPastShallLive-19XX-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0032/Reformation-John8-WhichPastShallLive-19XX-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0032/Reformation-John8-WhichPastShallLive-19XX-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0032/Reformation-John8-WhichPastShallLive-19XX-2.png" width="1200" >}}

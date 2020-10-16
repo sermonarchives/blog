@@ -18,9 +18,9 @@ _This is an undated Advent sermon, likely from the early 1980's or late 1970's._
 
 _The gospel text is listed as Mark 1:1-8. Although it's listed as an Advent sermon, I don't think the text directly correlates to the current Revised Common Lectionary. The sermon mentions the 1973 film, [Godspell](http://www.imdb.com/title/tt0070121/)._
 
-{{% img src="/images/sermons/0047/Advent-AnticipationIsPreparation-19XX-p01.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0047/Advent-AnticipationIsPreparation-19XX-p01.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0047/Advent-AnticipationIsPreparation-19XX-p02.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0047/Advent-AnticipationIsPreparation-19XX-p02.jpg" width="1200" >}}
 
 # **ANTICIPATION IS PREPARATION - Advent - Mk.1:1-8**
 

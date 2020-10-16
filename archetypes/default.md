@@ -15,4 +15,4 @@ sermon_number: "0001"
 
 <!--more-->
 
-{{% img src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" width="1200" >}}

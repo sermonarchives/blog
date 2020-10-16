@@ -20,4 +20,4 @@ _The sermon notes a verse 11 with Mary Magdalene, which is likely from the gospe
 
 **Easter: A Way To Live - Easter Festival - 4/10/1977**
 
-{{% img src="/images/sermons/0022/easterc-festival-4-10-1977-easterawaytolive-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0022/easterc-festival-4-10-1977-easterawaytolive-large.jpg" width="1200" >}}

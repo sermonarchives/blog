@@ -18,4 +18,4 @@ _This is a Reformation Sunday sermon from October of 1977. The gospel text is li
 
 **Where's Your Home? - Reformation Sunday (10/30/1977)**
 
-{{% img src="/images/sermons/0033/Reformation-John8-10-30-1977.png" w="1200" %}}
+{{< figure src="/images/sermons/0033/Reformation-John8-10-30-1977.png" width="1200" >}}

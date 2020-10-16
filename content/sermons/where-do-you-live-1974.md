@@ -18,4 +18,4 @@ _This is a typed sermon for Reformation Sunday of 1974.  The gospel text is list
 
 **Where Do You Live? Reformation Sunday (10/27/1974)**
 
-{{% img src="/images/sermons/0030/ReformationSunday-10-27-1974.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0030/ReformationSunday-10-27-1974.jpg" width="1200" >}}

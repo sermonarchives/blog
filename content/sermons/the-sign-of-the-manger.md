@@ -20,4 +20,4 @@ _The gospel text is listed as Luke 2:12. The sermon contains highlights in red a
 
 # **The Sign of the Manger: Christmas Eve 1983**
 
-{{% img src="/images/sermons/0051/ChristmasEve-12-24-1983.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0051/ChristmasEve-12-24-1983.jpg" width="1200" >}}

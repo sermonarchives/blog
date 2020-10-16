@@ -20,4 +20,4 @@ _Gospel text noted as John 20:1-9, which puts this sermon into [Easter A/B/C in 
 
 **Fearful Doubts Or Exciting Faith - Easter Sunrise - 3/30/1975**
 
-{{% img src="/images/sermons/0020/eastersunrise-3-30-1975-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0020/eastersunrise-3-30-1975-large.jpg" width="1200" >}}

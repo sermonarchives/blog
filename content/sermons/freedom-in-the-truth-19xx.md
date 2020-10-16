@@ -17,6 +17,6 @@ _This is an undated Reformation Sunday sermon which is a combination of typing a
 <!--more-->
 
 **Freedom In The Truth - Reformation Sunday**
-{{% img src="/images/sermons/0037/Reformation-John8-19XX-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0037/Reformation-John8-19XX-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0037/Reformation-John8-19XX-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0037/Reformation-John8-19XX-2.png" width="1200" >}}

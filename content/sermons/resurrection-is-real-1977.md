@@ -20,4 +20,4 @@ _This sermon references the book "[The Confession of An Octogenarian](http://www
 
 **Resurrection is Real - Easter Sunrise - 4/10/1977**
 
-{{% img src="/images/sermons/0017/easterc-sunrise-4-10-1977-resurrectionisreal-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0017/easterc-sunrise-4-10-1977-resurrectionisreal-large.jpg" width="1200" >}}

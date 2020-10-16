@@ -20,6 +20,6 @@ _The Gospel text is listed as Luke 13:1-9, corresponding to the [Third Sunday of
 
 # From Repentance to Hope
 
-{{% img src="/images/sermons/0062/3LentC-3-22-1992-1-1200.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0062/3LentC-3-22-1992-1-1200.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0062/3LentC-3-22-1992-2-1200.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0062/3LentC-3-22-1992-2-1200.jpg" width="1200" >}}

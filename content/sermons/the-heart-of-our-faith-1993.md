@@ -20,6 +20,6 @@ _The sermon mentions a book called ["A Man Called Peter" by Dr. Catherine Marsha
 
 **The Heart of Our Faith - Reformation Sunday (10/31/1993)**
 
-{{% img src="/images/sermons/0031/Reformation-Rom3-10-31-1993-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0031/Reformation-Rom3-10-31-1993-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0031/Reformation-Rom3-10-31-1993-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0031/Reformation-Rom3-10-31-1993-2.png" width="1200" >}}

@@ -20,4 +20,4 @@ _This sermon references Matthew 6:1-13 as the text, which is close to the Revise
 
 **What Are You Doing That For? - Ash Wednesday (3/3/1976)**
 
-{{% img src="/images/sermons/0011/ashwed-matthew6-3-3-1976-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0011/ashwed-matthew6-3-3-1976-1024x1024.jpg" width="1200" >}}

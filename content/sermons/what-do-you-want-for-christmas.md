@@ -20,8 +20,8 @@ _This sermon was written on the back of a letter from Weston Noble on behalf of 
 
 # **What Do You Want for Christmas??**
 
-{{% img src="/images/sermons/0053/ChristmasC-Probably1972.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0053/ChristmasC-Probably1972.jpg" width="1200" >}}
 
 _Here's the letter from Weston Noble:_
 
-{{% img src="/images/sermons/0053/ChristmasC-Probably1972-back.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0053/ChristmasC-Probably1972-back.jpg" width="1200" >}}

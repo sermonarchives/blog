@@ -20,9 +20,9 @@ _Text for this sermon is available as scanned images, as well as text that was r
 
 # **WHO'S IN -- WHO'S OUT?     Christ the King Sunday  1994 - John 18:35-37**
 
-{{% img src="/images/sermons/0055/ChristTheKingB-11-20-1994-p1.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0055/ChristTheKingB-11-20-1994-p1.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0055/ChristTheKingB-11-20-1994-p2.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0055/ChristTheKingB-11-20-1994-p2.jpg" width="1200" >}}
 
 Dear friends, grace & peace from God our Father and Christ our King.
 

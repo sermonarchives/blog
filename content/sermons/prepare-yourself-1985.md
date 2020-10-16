@@ -20,7 +20,7 @@ _The gospel text is Luke 21:36, which means that this text matches up with the [
 
 # **Prepare Yourself - 1 Advent C (12/l/85) Luke 21:36**
 
-{{% img src="/images/sermons/0046/1AdventC-12-1-1985-resized.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0046/1AdventC-12-1-1985-resized.jpg" width="1200" >}}
 
 v.36: "But Watch at all times praying that you may have strength to escape all these things that will take place, and to stand before the Son of man." Lord, may the words of my mouth, ....
 

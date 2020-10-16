@@ -22,4 +22,4 @@ _The sermon references tornadoes that occurred in Xenia, Ohio in 1974.  I locate
 
 **Who Me, Not Free? - Reformation Sunday (10/26/1975)**
 
-{{% img src="/images/sermons/0041/Reformation-John8-10-26-1975.png" w="1200" %}}
+{{< figure src="/images/sermons/0041/Reformation-John8-10-26-1975.png" width="1200" >}}

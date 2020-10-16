@@ -20,4 +20,4 @@ _Gospel text is listed as Matthew 6:1-8, later noted as [Ash Wednesday](http://l
 
 **God Sees In Secret - Ash Wednesday (1972)**
 
-{{% img src="/images/sermons/0013/ashwed-matthew6-1972-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0013/ashwed-matthew6-1972-1024x1024.jpg" width="1200" >}}

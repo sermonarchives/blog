@@ -20,6 +20,6 @@ _The Gospel text is listed as Luke 13:34, corresponding to the [Second Sunday of
 
 # Follow His Way - Second Sunday of Lent (03/02/1980)
 
-{{% img src="/images/sermons/0061/2Lent-Luke13-3-2-1980-1-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0061/2Lent-Luke13-3-2-1980-1-scaled.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0061/2Lent-Luke13-3-2-1980-2-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0061/2Lent-Luke13-3-2-1980-2-scaled.jpg" width="1200" >}}

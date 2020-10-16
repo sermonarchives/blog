@@ -22,6 +22,6 @@ _Audio of the treatise is available [here](https://librivox.org/concerning-chris
 
 **Perfectly Free, Yet Servants Of All - Reformation Sunday (10/27/1991)**
 
-{{% img src="/images/sermons/0036/Reformation-John8-10-27-1991-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0036/Reformation-John8-10-27-1991-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0036/Reformation-John8-10-27-1991-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0036/Reformation-John8-10-27-1991-2.png" width="1200" >}}

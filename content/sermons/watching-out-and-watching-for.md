@@ -20,7 +20,7 @@ _The gospel text for this sermon is Matthew 24:42, which likely puts it into the
 
 # **WATCHING OUT AND WATCHING FOR - 1 Advent A (11/27/1983)**
 
-{{% img src="/images/sermons/0045/1Advent-11-27-1983-resized.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0045/1Advent-11-27-1983-resized.jpg" width="1200" >}}
 
 Matthew 24:42: "Watch, therefore, for you do not know on what tilay your Lord is coming."
 
