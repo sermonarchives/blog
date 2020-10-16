@@ -20,4 +20,4 @@ _Gospel text noted as Matthew 28: 1-10, which likely puts this sermon into [Year
 
 **Easter's Contrasts - Easter Festival - 3/26/1978**
 
-{{% img src="/images/sermons/0018/easterdayfestival-3-26-1978-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0018/easterdayfestival-3-26-1978-large.jpg" width="1200" >}}

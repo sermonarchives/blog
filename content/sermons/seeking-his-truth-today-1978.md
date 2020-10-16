@@ -20,4 +20,4 @@ _There is a reference to the [stavkirke in Rapids City, South Dakota](http://www
 
 **Seeking His Truth Today - Reformation Sunday (10/29/1978)**
 
-{{% img src="/images/sermons/0039/Reformation-John8-10-29-1978.png" w="1200" %}}
+{{< figure src="/images/sermons/0039/Reformation-John8-10-29-1978.png" width="1200" >}}

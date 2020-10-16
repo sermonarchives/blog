@@ -20,4 +20,4 @@ _A note is written at the top, denoting it as the [Second Sunday of Epiphany C](
 
 **The Abundant Life - 2 Epiph C - 19XX**
 
-{{% img src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" width="1200" >}}

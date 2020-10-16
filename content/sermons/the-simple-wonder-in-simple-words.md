@@ -20,4 +20,4 @@ _This sermon was in the pile of "Christmas C" sermons, so my assumption is that 
 
 # **The Simple Wonder in Simple Words**
 
-{{% img src="/images/sermons/0052/ChristmasC-19XX.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0052/ChristmasC-19XX.jpg" width="1200" >}}

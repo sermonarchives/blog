@@ -20,4 +20,4 @@ _Later, the season was changed to [Ash Wednesday](http://lectionary.library.vand
 
 **Where Does Wholeness Begin? - Ash Wednesday (9/30/1973)**
 
-{{% img src="/images/sermons/0012/ashwed-matthew6-9-30-1973-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0012/ashwed-matthew6-9-30-1973-1024x1024.jpg" width="1200" >}}

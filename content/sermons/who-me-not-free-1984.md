@@ -18,6 +18,6 @@ _This is a Reformation Sunday sermon from 1984.  The gospel text is listed as Jo
 
 **Who Me, Not Free? - Reformation Sunday (10/28/1984)**
 
-{{% img src="/images/sermons/0035/Reformation-John8-10-28-1984-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0035/Reformation-John8-10-28-1984-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0035/Reformation-John8-10-28-1984-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0035/Reformation-John8-10-28-1984-2.png" width="1200" >}}

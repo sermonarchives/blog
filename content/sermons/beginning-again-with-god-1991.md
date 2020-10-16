@@ -20,6 +20,6 @@ _Sermon text listed as Psalm 51:1-2, for [Ash Wednesday](http://lectionary.libra
 
 **Beginning Again With God -Ash Wednesday (2/13/1991)**
 
-{{% img src="/images/sermons/0015/ashwed-psalm51-2-13-1991-1-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0015/ashwed-psalm51-2-13-1991-1-1024x1024.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0015/ashwed-psalm51-2-13-1991-2-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0015/ashwed-psalm51-2-13-1991-2-1024x1024.jpg" width="1200" >}}

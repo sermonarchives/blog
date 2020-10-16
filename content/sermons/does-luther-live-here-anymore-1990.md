@@ -18,4 +18,4 @@ _This is a Reformation Sunday sermon from 1990.  The gospel text is John 8:32.  
 
 **Does Luther Live Here Anymore? - Reformation Sunday (10/25/1990)**
 
-{{% img src="/images/sermons/0038/Reformation-John8-10-25-1990.png" w="1200" %}}
+{{< figure src="/images/sermons/0038/Reformation-John8-10-25-1990.png" width="1200" >}}

@@ -21,9 +21,9 @@ _The gospel text is listed as Matthew 21:40, and the filename of the sermon was 
 
 # **"IT'S NOT EASY BEING A LANDLORD" 19 Pent A (RCL) (10/6/96) Mt.21:40**
 
-{{% img src="/images/sermons/0026/19PentA-10-6-1996-1.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0026/19PentA-10-6-1996-1.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0026/19PentA-10-6-1996-2.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0026/19PentA-10-6-1996-2.jpg" width="1200" >}}
 
 Dear friends in Christ....
 

@@ -20,9 +20,9 @@ _The sermon text is listed as 2 Samuel 7:15-16, which is not a gospel text, but 
 
 # **BUILDING A HOUSE : 4 Advent B (12/19/87) 2 Samuel 7:15-16**
 
-{{% img src="/images/sermons/0050/4AdventB-12-19-1987-p1.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0050/4AdventB-12-19-1987-p1.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0050/4AdventB-12-19-1987-p2.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0050/4AdventB-12-19-1987-p2.jpg" width="1200" >}}
 
 "Moreover, the Lord declares to you that the Lord will make you a house. And your house and your kingdom shall be made sure for ever before me; your throne shall be established forever. "
 

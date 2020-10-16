@@ -18,4 +18,4 @@ _This is a Reformation Sunday sermon from 1976.  The gospel text is listed as Jo
 
 **Free By God - Reformation Sunday (10/31/1976)**
 
-{{% img src="/images/sermons/0040/Reformation-John8-10-31-1976.png" w="1200" %}}
+{{< figure src="/images/sermons/0040/Reformation-John8-10-31-1976.png" width="1200" >}}

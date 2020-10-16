@@ -20,9 +20,9 @@ _I've used Google's OCR to transcribe the text from this scanned sermon._
 
 # **STRAIGHT TO CHRISTMAS - Christmas Day 1989 - Luke 2:15**
 
-{{% img src="/images/sermons/0054/ChristmasDay-1989-p1.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0054/ChristmasDay-1989-p1.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0054/ChristmasDay-1989-p2.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0054/ChristmasDay-1989-p2.jpg" width="1200" >}}
 
 "After the angels had left them and gone into heaven the shepherds said to one another, 'Come, we must go straight to Bethlehem and see this thing that has happened which the Lord has made known to us."
 

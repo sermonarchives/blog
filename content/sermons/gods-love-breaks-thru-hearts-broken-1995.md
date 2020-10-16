@@ -48,6 +48,6 @@ My point today is this: although our broken and contrite hearts do not make paym
 
 In lowliness we bow before him, then, as again and again he answers the lenten question "Alas, and did my Savior bleed, and did my sov'reign die? Would he devote that sacred head for sinners such as I?" The answer is "YES!" Christ says "Yes, I was broken for you, that the Father's love might break through." God loves us that much, that he would experience such brokenness for us, and indeed in Christ God has been perfectly broken, that we might be saved."
 
-{{% img src="/images/sermons/0014/1456116449_ashwed-psalm51-3-1-1995-1-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0014/1456116449_ashwed-psalm51-3-1-1995-1-1024x1024.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0014/ashwed-psalm51-3-1-1995-2-1024x1024.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0014/ashwed-psalm51-3-1-1995-2-1024x1024.jpg" width="1200" >}}

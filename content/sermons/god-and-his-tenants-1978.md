@@ -20,4 +20,4 @@ _The gospel text is listed as Matthew 21, and the sermon itself indicated the 20
 
 **God and His Tenants - 10/1/1978**
 
-{{% img src="/images/sermons/0028/20Pent-Matthew21-10-1-1978.png" w="1200" %}}
+{{< figure src="/images/sermons/0028/20Pent-Matthew21-10-1-1978.png" width="1200" >}}

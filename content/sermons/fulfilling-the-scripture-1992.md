@@ -21,6 +21,6 @@ _Gospel text noted as Luke 4:21, which puts this sermon into [the Third Sunday o
 
 **Fulfilling the Scripture**
 
-{{% img src="/images/sermons/0058/3EpiphC-1-26-1992-1-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0058/3EpiphC-1-26-1992-1-scaled.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0058/3EpiphC-1-26-1992-2-scaled.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0058/3EpiphC-1-26-1992-2-scaled.jpg" width="1200" >}}

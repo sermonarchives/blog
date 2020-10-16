@@ -20,4 +20,4 @@ _The gospel is listed as John 1:1-18. It seems like years A, B, and C have the s
 
 **A Word For Life: 1/2/1983**
 
-{{% img src="/images/sermons/0024/2Christmas1983.png" w="1200" %}}
+{{< figure src="/images/sermons/0024/2Christmas1983.png" width="1200" >}}

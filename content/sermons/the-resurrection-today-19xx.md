@@ -21,4 +21,4 @@ _A gospel from Luke 24 means that this sermon is either from [Easter Evening](ht
 
 **The Resurrection Today - Easter**
 
-{{% img src="/images/sermons/0021/easterc-19xx-theresurrectiontoday-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0021/easterc-19xx-theresurrectiontoday-large.jpg" width="1200" >}}

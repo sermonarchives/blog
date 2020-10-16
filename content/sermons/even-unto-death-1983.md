@@ -20,6 +20,6 @@ _The gospel text appears to be from Luke 20, which does not appear to be used an
 
 # Even Unto Death
 
-{{% img src="/images/sermons/0064/Lent5-Luke20-3-20-1983-1200.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0064/Lent5-Luke20-3-20-1983-1200.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0064/ststephen.png" w="1200" %}}
+{{< figure src="/images/sermons/0064/ststephen.png" width="1200" >}}

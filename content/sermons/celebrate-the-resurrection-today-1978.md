@@ -21,4 +21,4 @@ _Gospel text noted as John 20:8, which puts this sermon into [Easter A/B/C in th
 
 **Celebrate The Resurrection Today - Easter Sunrise - 3/26/1978**
 
-{{% img src="/images/sermons/0019/eastersunrise-3-26-1978-large.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0019/eastersunrise-3-26-1978-large.jpg" width="1200" >}}

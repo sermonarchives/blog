@@ -18,6 +18,6 @@ _This is a Reformation Sunday sermon from 1985.  The gospel text is listed as Jo
 
 **Who is Free? - Reformation Sunday (10/27/1985)**
 
-{{% img src="/images/sermons/0034/Reformation-John8-10-27-1985-1.png" w="1200" %}}
+{{< figure src="/images/sermons/0034/Reformation-John8-10-27-1985-1.png" width="1200" >}}
 
-{{% img src="/images/sermons/0034/Reformation-John8-10-27-1985-2.png" w="1200" %}}
+{{< figure src="/images/sermons/0034/Reformation-John8-10-27-1985-2.png" width="1200" >}}

@@ -20,9 +20,9 @@ _The gospel text is Matthew 22: 17 and 21, corresponding to the [20th Sunday Aft
 
 **WHO'S IN CHARGE? 21 PentA (RCL) (10/20/96) Mt.22:17,21**
 
-{{% img src="/images/sermons/0027/21PentA-10-20-1996-1.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0027/21PentA-10-20-1996-1.jpg" width="1200" >}}
 
-{{% img src="/images/sermons/0027/21PentA-10-20-1996-2.jpg" w="1200" %}}
+{{< figure src="/images/sermons/0027/21PentA-10-20-1996-2.jpg" width="1200" >}}
 
 Dear friends in Christ...grace and peace.....
 Have you ever been in a situation that seems out of control? Have you ever wondered, "Who's in charge here?" That question was raised this past week as 83 spectators died at a soccer match: "Who is responsible for all this?" We would like to think that each time something goes wrong that someone will make it right....but life in this world is not that simple. In 1941, millions of Russians welcomed the Nazi troops who invaded to deliver them from Stalin's cruel regime. They received the troops with open arms, only to discover that the Nazis could be even more brutal than Stalin. We wonder: "Who's in charge? Who can deliver us?"
