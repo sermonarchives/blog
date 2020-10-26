@@ -1,5 +1,5 @@
 ---
-title: "The Seven Last Words - Marta Poling-Schmidt"
+title: "The Seven Last Words - Marta Poling-Schmitt"
 date: 2020-10-26T04:46:08Z
 categories: ["sermons"]
 tags: ["Lent", "Good Friday", "video"]
@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0065/marta-ps.png"
 sermon_number: "0065"
 ---
 
-Here's a sermon from Marta Poling-Schmidt, preached remotely in April of 2020, on Good Friday.
+Here's a sermon from Marta Poling-Schmitt, preached remotely from Las Vegas in April of 2020, on Good Friday.
 
 <!--more-->
 
@@ -113,10 +113,10 @@ to rescue and deliver us. Trust in the God you know. In these tough times, repea
 Scripture. And don’t forget Jesus’ parting words before his ascension: “Remember, I will be with
 you always to the end of this age” (Matt.28:20).
 
-_Marta was also nice enough to include some of her personal photos from days gone by, including a Christmas card sent by our family:_
+_Marta was also nice enough to include some of her personal photos from days gone by, including a Christmas card sent by our family in the mid-1990's and some pictures of Steve and Dave (and little Ross?) at the cabin in the 1980's:_
 
-{{< figure src="/images/sermons/0065/transfigurationsunday-luke9-2-20-1977-1024x1024.jpg" >}}
+{{< figure src="/images/sermons/0065/IMG_1675.jpg" width="1200" >}}
 
-{{< figure src="/images/sermons/0065/transfigurationsunday-luke9-2-20-1977-1024x1024.jpg" >}}
+{{< figure src="/images/sermons/0065/IMG_1676.jpg" width="1200" >}}
 
-{{< figure src="/images/sermons/0065/transfigurationsunday-luke9-2-20-1977-1024x1024.jpg" >}}
+{{< figure src="/images/sermons/0065/IMG_1677.jpg" width="1200" >}}
