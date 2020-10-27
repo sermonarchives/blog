@@ -9,7 +9,7 @@ sermon_date: 2017-12-19T21:51:53-06:00
 sermon_scan: false
 sermon_text: true
 sermon_audio: true
-thumbnail: "/images/thumbs/0049-TheBiggerPicture.png"
+thumbnail: "/images/sermons/0049/ChristmasDayB-12-25-1996-p0001-1080.jpg"
 sermon_number: "0049"
 ---
 _This is the last Christmas Day sermon that my father preached.  It was preached in 1996 at Emmanuel Lutheran Church in Seymour.  Audio is available._
@@ -51,3 +51,9 @@ We receive that Word today....in scripture read and preached, in bread and wine 
 
 Merry Christmas. May Christ dwell in you throughout the coming year.
 May his peace which passes all understanding keep us one in the Word made flesh. Amen.
+
+_Scans of the original sermon are also available:_
+
+{{< figure src="/images/sermons/0049/ChristmasDayB-12-25-1996-p0001-1080.jpg" >}}
+
+{{< figure src="/images/sermons/0049/ChristmasDayB-12-25-1996-p0002-1080.jpg" >}}
