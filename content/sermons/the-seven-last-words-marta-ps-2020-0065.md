@@ -2,10 +2,10 @@
 title: "The Seven Last Words - Marta Poling-Schmitt"
 date: 2020-10-26T04:46:08Z
 categories: ["sermons"]
-tags: ["Lent", "Good Friday", "video"]
+tags: ["Lent", "Good Friday", "video", "2020"]
 rcl_year: "A"
 rcl_season: "Lent"
-sermon_date: 2020-10-26T04:46:08Z
+sermon_date: 2020-04-22
 sermon_scan: false
 sermon_text: false
 sermon_audio: true
