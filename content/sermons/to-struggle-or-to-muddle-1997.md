@@ -5,7 +5,7 @@ categories: ["sermons"]
 tags: ["Lent", "audio", "1997", "screwtape letters"]
 rcl_year: "B"
 rcl_season: "Lent"
-sermon_date: 2017-02-16
+sermon_date: 1997-02-16
 sermon_scan: false
 sermon_text: true
 sermon_audio: true
@@ -50,3 +50,9 @@ God calls us to do what's right.
 Well, our forty days in the desert of Lent will continue as we look at the passion story, as we worship around the theme of the "Crowns of Lent" on Wednesdays, and as we approach Holy Week once more. The most important thing to remember is that despite his struggle with the authorities, with his friends, and with his own humanity...Jesus wins a victory over evil. The closing verse of our text say it so well: "Now after John was arrested, Jesus came to Galilee, proclaiming the Good News of God, and saying, "The time is fulfilled, and the kingdom of God has come near; repent and believe the good news."
 
 May God's kingdom come near to each of us as we repent and hear the good news, and may the peace of God which passes all understanding keep us one in Christ Jesus. Amen.
+
+_Scans of the original sermon are also available:_
+
+{{< figure src="/images/sermons/0025/1LentB-2-16-1997-1-1080.jpg" width="1080" >}}
+
+{{< figure src="/images/sermons/0025/1LentB-2-16-1997-2-1080.jpg" width="1080" >}}
