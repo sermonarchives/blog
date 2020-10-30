@@ -2,7 +2,7 @@
 title: "For All the Saints -- For You and Me Too!!"
 date: 2020-10-30T00:32:15Z
 categories: ["sermons"]
-tags: ["All Saints", "1988"]
+tags: ["All Saints Day", "1988"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1988-11-06
