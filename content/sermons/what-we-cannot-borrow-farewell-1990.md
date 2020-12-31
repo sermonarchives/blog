@@ -2,7 +2,7 @@
 title: "What We Cannot Borrow - St. Stephen Farewell Sermon"
 date: 2020-12-31T04:42:39Z
 categories: ["sermons"]
-tags: ["video", "St-Stephen"]
+tags: ["video", "St-Stephen", "1990", "Pentecost", "Farewell"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1990-11-18
