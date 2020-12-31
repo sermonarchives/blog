@@ -2,7 +2,7 @@
 title: "This Love Divine"
 date: 2020-10-28T02:33:29Z
 categories: ["sermons"]
-tags: ["Trinity", "St. Stephen", "hymns"]
+tags: ["Trinity", "St-Stephen", "hymns"]
 rcl_year: "B"
 rcl_season: "Pentecost"
 sermon_date: 1988-05-29
