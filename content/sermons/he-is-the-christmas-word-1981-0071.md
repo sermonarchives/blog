@@ -5,9 +5,9 @@ categories: ["sermons"]
 tags: ["1981", "Christmas", ]
 rcl_year: ""
 rcl_season: "Christmas"
-sermon_date: 2021-01-02T04:14:26Z
+sermon_date: 1981-01-04
 sermon_scan: true
-sermon_text: true
+sermon_text: false
 sermon_audio: false
 thumbnail: "/images/sermons/0071/2ndSundayAfterChristmas-1-4-1981-1200.jpeg"
 sermon_number: "0071"
