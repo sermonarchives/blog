@@ -2,7 +2,7 @@
 title: "Hindsight"
 date: 2017-09-29T22:56:04-05:00
 categories: ["sermons"]
-tags: ["Christmas", "1995", "1ChristA"]
+tags: ["Christmas", "1995"]
 rcl_year: "A"
 rcl_season: "Christmas"
 sermon_date: 1995-12-31

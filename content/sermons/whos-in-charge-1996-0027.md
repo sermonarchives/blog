@@ -2,7 +2,7 @@
 title: "Who's In Charge?"
 date: 2017-10-02T21:45:49-05:00
 categories: ["sermons"]
-tags: ["1996", "Pentecost", "21 Pent A", "Taxes"]
+tags: ["1996", "Pentecost", "Taxes"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1996-10-20

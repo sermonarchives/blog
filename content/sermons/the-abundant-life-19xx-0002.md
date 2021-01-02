@@ -2,7 +2,7 @@
 title: "The Abundant Life"
 date: 2017-09-19T22:23:33-05:00
 categories: ["sermons"]
-tags: ["2EpiphC", "Epiphany", "undated", "handwritten"]
+tags: ["Epiphany", "undated", "handwritten"]
 rcl_year: "C"
 rcl_season: "Epiphany"
 sermon_date:
