@@ -17,7 +17,7 @@ Here is a sermon from the first Sunday after Christmas in 1991.  Audio is availa
 
 <!--more-->
 
-There is also highlighted typed sermon text, and that is available below the 
+There is also highlighted typed sermon text, and that is available below the embedded youtube video.
 
 {{< youtube pEAf4CqVub8  >}}
 
