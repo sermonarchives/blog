@@ -25,3 +25,6 @@ There is also highlighted typed sermon text, and that is available below the emb
 
 {{< figure src="/images/sermons/0072/1ChristmasB-12-29-1991-p0002-1200.jpeg" width="1200" >}}
 
+The full service audio is available here:
+
+{{< youtube 0M93H60DR0k >}}
