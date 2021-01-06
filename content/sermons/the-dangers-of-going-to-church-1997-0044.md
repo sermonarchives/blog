@@ -2,14 +2,14 @@
 title: "The Dangers of Going to Church"
 date: 2017-10-23T22:39:11-05:00
 categories: ["sermons"]
-tags: ["1997", "Bungee Jumping", "Andrew Young", "Epiphany", "audio"]
+tags: ["1997", "Bungee Jumping", "Andrew Young", "Epiphany", "audio", "full-service-audio"]
 rcl_year: "B"
 rcl_season: "Epiphany"
 sermon_date: 1997-01-19
 sermon_scan: false
 sermon_text: true
 sermon_audio: true
-thumbnail: "/images/sermons/0044/2EpiphB-1997.PNG"
+thumbnail: "/images/sermons/0044/0044-inverted.png"
 sermon_number: "0044"
 ---
 _This is a sermon from Emmanuel Lutheran Church.  It's from January of 1997.  Audio and text are available._
@@ -22,7 +22,7 @@ _There is also a story about [Andrew Young](https://www.biography.com/people/and
 
 **THE DANGERS OF GOING TO CHURCH 2EpiphB (1/19/97) 1 Sam.3:1-10**
 
-{{< youtube 2mgfSl3LHE4 >}}
+{{< youtube 4dFmm0IGpzQ >}}
 
 Dear friends in Christ, grace & peace......
 
@@ -48,3 +48,7 @@ Samuel's time is described in these words: "The word of the Lord was rare in tho
 Some churches have a sign over their sanctuary entrance: 'SILENCE PLEASE. PEOPLE AT PRAYER.' Thinking about Samuel, and Nathaniel, I would have the sign say: 'WARNING: GOD AT WORK'. May our church be a wonderful and dangerous place for us to be, a place where we 'come and see' and where somebody is willing to say, "Speak Lord, I'm listening."
 
 THE PEACE OF GOD.......
+
+
+The full service is available here:
+{{< youtube CgC54_fP8wc >}}
