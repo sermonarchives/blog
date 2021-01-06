@@ -2,7 +2,7 @@
 title: "To Struggle Or To Muddle"
 date: 2017-09-30T19:31:08-05:00
 categories: ["sermons"]
-tags: ["Lent", "audio", "1997", "screwtape letters"]
+tags: ["Lent", "audio", "1997", "screwtape letters", "full-service-audio"]
 rcl_year: "B"
 rcl_season: "Lent"
 sermon_date: 1997-02-16
@@ -22,7 +22,7 @@ _There is an interesting reference to ["The Screwtape Letters" by C.S. Lewis](ht
 
 **TO STRUGGLE OR TO MUDDLE 1LentB (2/16/97) Mk 1:12-13**
 
-{{< youtube XMfn8NQ96Ng >}}
+{{< youtube HMBvDQCFNBA >}}
 
 Dear friends in Christ, grace & peace....
 
@@ -56,3 +56,6 @@ _Scans of the original sermon are also available:_
 {{< figure src="/images/sermons/0025/1LentB-2-16-1997-1-1080.jpg" width="1080" >}}
 
 {{< figure src="/images/sermons/0025/1LentB-2-16-1997-2-1080.jpg" width="1080" >}}
+
+Here is a recording of the full service:
+{{< youtube hAQ0Y4LKqKI >}}
