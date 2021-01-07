@@ -5,7 +5,7 @@ categories: ["sermons"]
 tags: ["Christmas", "1973", "handwritten"]
 rcl_year: "B"
 rcl_season: "Christmas"
-sermon_date: 2073-12-30
+sermon_date: 1973-12-30
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
