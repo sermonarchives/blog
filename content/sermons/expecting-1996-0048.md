@@ -2,17 +2,17 @@
 title: "Expecting"
 date: 2017-12-19T21:01:55-06:00
 categories: ["sermons"]
-tags: ["Advent", "1997", "audio"]
+tags: ["Advent", "1997", "audio", "full-service-audio"]
 rcl_year: "B"
 rcl_season: "Advent"
 sermon_date: 1996-12-22
 sermon_scan: false
 sermon_text: true
 sermon_audio: true
-thumbnail: "/images/thumbs/0048-expecting.png"
+thumbnail: "/images/thumbs/0048-youtube.png"
 sermon_number: "0048"
 ---
-_This is an Advent sermon from 1996. Audio is available!_
+_This is an Advent sermon from 1996. Audio is available for the sermon, as well as the entire service!_
 
 <!--more-->
 
@@ -24,7 +24,7 @@ _The context of this sermon is important to understand before listening.  At thi
 
 # **"Expecting" 4AdventB (12/22/96) Luke 1:37**
 
-{{< youtube _ogSRSEkijo >}}
+{{< youtube F-SQRbZ9ACk >}}
 
 Dear friends in Christ, grace & peace....
 
@@ -51,3 +51,8 @@ This advent our calling is not to somehow create the perfect family Christmas ou
 We may not realize it, but we are very much like Mary sitting there with the angel of God. We are expecting, knowing that God has already begun what he announces to us. Christ lives in us already, even as he once lived within Mary. We will ache and labor, we will wonder about his coming, we will have questions of God, but above all we live in trust and hope, as we say "Here am I, the servant of the Lord, let it be with me according to your word."
 
 May God be with you in your expectations this Christmas. May God be in the silence as well as the joyful noise. May God be in the questions you ask as well as in the answers you receive. May God's peace which passes all understanding keep our hearts and minds in Christ Jesus. Amen.
+
+
+
+Full Service:
+{{< youtube WLXBqFDxmD8 >}}
