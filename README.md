@@ -10,4 +10,4 @@ If running in GitPod, running the server requires a slightly different command: 
 
 Once the command is running, make sure to expose port 1313.
 
-Deploy to Github organization page handled by: https://github.com/marketplace/actions/hugo-for-github-organization-pages
+Deploy to Github organization page handled by: https://github.com/zo0o0ot/gh-actions-hugo-deploy-gh-pages which is a fork of https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages
