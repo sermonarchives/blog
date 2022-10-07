@@ -22,7 +22,7 @@ _There's a reference to Charlie Brown in this sermon. It mentions Lucy, but if t
 
 {{< figure src="/images/sermons/0075/peanuts.webp" width="540" >}}
 
-_There's a reference to a hymn following the sermon, which is [LBW 403: Lord, Speak to Us, That We May Speak](https://hymnary.org/hymn/LBoW1978/403). I used the automatic OCR from Google Docs to obtain the rough version of the sermon text, but I've done some light corrections to for accuracy._
+_There's a reference to a hymn following the sermon, which is [LBW 403: Lord, Speak to Us, That We May Speak](https://hymnary.org/hymn/LBoW1978/403). I used the automatic OCR from Google Docs to obtain the rough version of the sermon text, but I've done some light corrections for accuracy._
 
 {{< figure src="/images/sermons/0075/21Pent-Luke17-10-16-1983-1080.jpg" width="1080" >}}
 
