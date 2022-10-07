@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: hugo-deploy-gh-pages
-      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
+      uses: zo0o0ot/gh-actions-hugo-deploy-gh-pages@master
       env:
         GITHUB_REMOTE_REPOSITORY: "sermonarchives/sermonarchives.github.io"
         GITHUB_BRANCH: master
