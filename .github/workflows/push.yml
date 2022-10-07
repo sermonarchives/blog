@@ -1,19 +1,18 @@
-name: Deploy to Remote Branch
-
-on:
-  push:
-    branches:
-      - master
-      
+on: push
+name: Deploy to GitHub Organization Pages
 jobs:
-  hugo-deploy-gh-pages:
+  filtersForGitHubActions:
+    name: Filters for GitHub Actions
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: hugo-deploy-gh-pages
-      uses: zo0o0ot/gh-actions-hugo-deploy-gh-pages@master
+    - name: Filters for GitHub Actions
+      uses: actions/bin/filter@master
+      with:
+        args: branch master
+    - name: hugo-deploy-gh-org-pages
+      uses: StevenACoffman/hugo-deploy-gh-org-pages@v1.0.3
       env:
-        GITHUB_REMOTE_REPOSITORY: "sermonarchives/sermonarchives.github.io"
-        GITHUB_BRANCH: master
-        GIT_DEPLOY_KEY: ${{ secrets.HUGO_DEPLOY }}
+        DEPLOY_KEY_PRIVATE: ${{ secrets.DEPLOY_KEY_PRIVATE }}
+        EMAIL: ${{ secrets.EMAIL }}
         HUGO_VERSION: "0.68.3"

@@ -9,3 +9,5 @@ It uses the Hugo static site templating engine. The site currently uses the "hug
 If running in GitPod, running the server requires a slightly different command: `hugo server --baseUrl $(gp url 1313) --appendPort=false`
 
 Once the command is running, make sure to expose port 1313.
+
+Deploy to Github organization page handled by: https://github.com/marketplace/actions/hugo-for-github-organization-pages
