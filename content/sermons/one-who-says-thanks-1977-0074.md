@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0074/21Pent-Luke17-10-23-1977-1080.jpg"
 sermon_number: "0074"
 ---
 
-_Here is a handwritten sermon, fresh from 1977. The sermon date is written down as 10/23/1977, and the listed Gospel text is Luke 17: 11-19._
+_Here is a handwritten sermon, fresh from 1977. The sermon date is noted as 10/23/1977, and the listed Gospel text is Luke 17: 11-19._
 
 <!--more-->
 
