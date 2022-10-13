@@ -2,7 +2,7 @@
 title: "There Will Be an Answer"
 date: 2022-10-13T00:01:14Z
 categories: ["sermons"]
-tags: ["world-series", "Yogi-Berra", WWII", "Sunday-School", "1986"]
+tags: ["world-series", "Yogi-Berra", WWII", "Sunday-School", "1986", "OCR"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1986-10-19

@@ -2,7 +2,7 @@
 title: "A God Who Comes to Parties"
 date: 2019-01-13T14:18:54-06:00
 categories: ["sermons"]
-tags: ["Epiphany", "Wedding-Disasters", "Wine", "South Africa", "1995"]
+tags: ["Epiphany", "Wedding-Disasters", "Wine", "South Africa", "1995", "OCR"]
 rcl_year: "C"
 rcl_season: "Epiphany"
 sermon_date: 1995-01-15

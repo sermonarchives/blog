@@ -2,7 +2,7 @@
 title: "More Than Skin Deep"
 date: 2022-10-07T02:29:47Z
 categories: ["sermons"]
-tags: ["typed", "18-pent-c", "charlie-brown", "lepers"]
+tags: ["typed", "18-pent-c", "charlie-brown", "lepers", "OCR"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1983-10-16
