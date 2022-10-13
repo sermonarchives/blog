@@ -2,7 +2,7 @@
 title: "There Will Be an Answer"
 date: 2022-10-13T00:01:14Z
 categories: ["sermons"]
-tags: ["world-series", "Yogi-Berra", WWII", "Sunday-School", "1986", "OCR"]
+tags: ["world-series", "Yogi-Berra", WWII", "Sunday-School", "1986", "OCR", "19-Pent-C", "Luke18"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1986-10-19
@@ -12,7 +12,7 @@ sermon_audio: false
 thumbnail: "/images/sermons/0077/22Pent-Luke18-10-19-1986-1.jpg"
 sermon_number: "0077"
 ---
-_This is a typed sermon with some highlighting and underlining in yellow. It is a sermon from 22 Pentecost and was preached in October of 1986._
+_This is a typed sermon with some highlighting and underlining in yellow. It is a sermon from 22 Pentecost and was preached in October of 1986. Technically, Luke 18 is now a part of 19 Pent C in the RCL._
 
 <!--more-->
 

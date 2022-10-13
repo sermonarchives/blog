@@ -2,7 +2,7 @@
 title: "Prayer Is Friend Talk"
 date: 2022-10-12T23:29:50Z
 categories: ["sermons"]
-tags: ["prayer", "22-Pent-C", "gas-rationing", "19XX"]
+tags: ["prayer", "19-Pent-C", "gas-rationing", "19XX", "Luke18"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 19XX
@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0076/22PentC-19XX-1080.jpg"
 sermon_number: "0076"
 ---
 
-_This is an undated, typed sermon with a handwritten closing, as well as some handwritten corrections. I'm going to guess this as coming from 1973? It was originally listed as being from Trinity XXI, but that was crossed out and 22 Pentecost C was written over it._
+_This is an undated, typed sermon with a handwritten closing, as well as some handwritten corrections. I'm going to guess this as coming from 1973? It was originally listed as being from Trinity XXI, but that was crossed out and 22 Pentecost C was written over it. Technically, Luke 18 is now a part of 19 Pent C in the RCL._
 
 <!--more-->
 

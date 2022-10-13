@@ -2,7 +2,7 @@
 title: "A World of Widows"
 date: 2022-10-13T00:19:29Z
 categories: ["sermons"]
-tags: ["1989", "Green_Bay-Packers", "Chicago-Cubs", "prayer", "OCR"]
+tags: ["1989", "Green_Bay-Packers", "Chicago-Cubs", "prayer", "OCR", "19-Pent-C", "Luke18"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1989-11-15
@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0078/22PentC-11-15-1989-1.jpg"
 sermon_number: "0078"
 ---
 
-_This is a typed sermon with some highlighting and underlining in yellow and red, as well as some corrections in blue pen. It is a sermon from 22 Pentecost and was preached in November of 1989._
+_This is a typed sermon with some highlighting and underlining in yellow and red, as well as some corrections in blue pen. It is a sermon from 22 Pentecost and was preached in November of 1989. Technically, Luke 18 is now a part of 19 Pent C in the RCL._
 
 <!--more-->
 
