@@ -5,7 +5,7 @@ categories: ["sermons"]
 tags: ["Mac Davis", "Hitler", "Mussolini", "20-pent-c", "tax-collector", "Emmanuel", "JR-Ewing"]
 rcl_year: "C"
 rcl_season: "Pentecost"
-sermon_date: 2022-10-23T04:00:16Z
+sermon_date: 1995-11-12
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
