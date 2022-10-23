@@ -13,6 +13,10 @@ thumbnail: "/images/thumbs/pastorlarson.png"
 sermon_number: "0001"
 ---
 
+_Here is information about the sermon._
+
 <!--more-->
 
-{{< figure src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" width="1200" >}}
+_Here is more information about the sermon but it isn't included in the little blurb on the home screen._
+
+{{< figure src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" width="1080" >}}
