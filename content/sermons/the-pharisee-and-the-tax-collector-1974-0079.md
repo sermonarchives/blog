@@ -2,7 +2,7 @@
 title: "The Pharisee and the Tax Collector"
 date: 2022-10-23T02:59:53Z
 categories: ["sermons"]
-tags: ["untitled", "20-pent-c", "1974", "Richard-Crashaw", "handwritten"]
+tags: ["untitled", "20-pent-c", "1974", "Richard-Crashaw", "handwritten", "tax-collector"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1974-11-10
