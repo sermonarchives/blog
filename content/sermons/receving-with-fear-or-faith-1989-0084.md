@@ -1,5 +1,5 @@
 ---
-title: "Receving With Fear or Faith 1989 0084"
+title: "Receving With Fear or Faith?"
 date: 2022-11-17T01:52:06Z
 categories: ["sermons"]
 tags: [""]
@@ -9,7 +9,7 @@ sermon_date: 2022-11-17T01:52:06Z
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
-thumbnail: "/images/thumbs/pastorlarson.png"
+thumbnail: "/images/sermons/0084/27PentC-11-19-1989-1.jpg"
 sermon_number: "0084"
 ---
 
@@ -21,4 +21,6 @@ _Here is more information about the sermon but it isn't included in the little b
 
 **Sermon Title - Season - Date**
 
-{{< figure src="/images/sermons/0002/2epiphc-theabundantlife-19xx-scaled.jpg" width="1080" >}}
+{{< figure src="/images/sermons/0084/27PentC-11-19-1989-1.jpg" width="1080" >}}
+
+{{< figure src="/images/sermons/0084/27PentC-11-19-1989-1.jpg" width="1080" >}}
