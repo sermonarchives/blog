@@ -24,8 +24,8 @@ Now that you've selected a sermon, get ready to prepare information for it to be
 ## Creating the page for the sermon.
 * Open the site in [Gitpod](https://gitpod.io/).
 * Go to /static/images/sermons/ and scroll down to the highest numbered directory.  That's the most recent sermon.  
-* This new sermon will be the next highest number. At the time of writing, we'll preten that the highest number is 0089, so the next sermon would be 0090.
-* In the terminal, create the new sermon by typing `hugo new sermons/sermon-name-and-sermon-number.md`
+* This new sermon will be the next highest number. At the time of writing, we'll pretend that the highest number is 0089, so the next sermon would be 0090.
+* In the terminal, create the new sermon by typing `hugo new sermons/sermon-name-sermon-year-and-sermon-number.md`
 * That command should create a new page representing the new sermon, with some information set to its default values.
 * If you want, you can verify that this new sermon page exists by going to the site preview window and looking at the top sermon, which should have your title and a default thumbnail image.
 * If you see the page, you're doing great.  If you don't see the page, you've probably done something wrong, and you should try to fix that.
@@ -34,7 +34,7 @@ Now that you've selected a sermon, get ready to prepare information for it to be
 * If you want to be able to see the media in the site, you're going to need to upload it somewhere.
 * Go to /static/images/sermons/ and scroll down to the highest numbered directory.  That's the most recent sermon.
 * Create a new folder with the next higher number.  This is going to be where you will upload the new sermon files.
-* Don't upload the highest quality scan that you have.  If the file size is bigger than 1MB, resize the image to have a maximum width of 1080 pixels to make it easier to show up on the page without using too much storage space or bandwidth.
+* Don't upload the highest quality scan that you have.  If the file size is bigger than 1 MB, resize the image to have a maximum width of 1080 pixels to make it easier to show up on the page without using too much storage space or bandwidth.
 
 ## Filling out the front matter
 The following items are in the [Hugo front matter](https://gohugo.io/content-management/front-matter/) for each sermon. Fill out as much of the information as you can.
@@ -42,7 +42,7 @@ The following items are in the [Hugo front matter](https://gohugo.io/content-man
 * title: The title of the sermon. Example: "A Camel on the Roof"
 * date: The date that you are posting the sermon. This is created automatically when you create the new sermon page.  Example: 2023-01-19T01:02:53Z
 * categories: If it's a sermon, this shouldn't change. Example: ["sermons"]
-* tags: A list of subjects that make this sermon unique. 
+* tags: A list of subjects that make this sermon unique. Separate multiple word subjects with hyphens. 
  Example: ["Ibrahim-Bin-Adham", "Herod", "Sadaam-Hussein", "Epiphany", "Camel"]
 * rcl_year: The year of the Revised Common Lectionary that this sermon was in. Example: "A"
 * rcl_season: The season of the Revised Common Lectionary that this sermon was in. "Epiphany"
@@ -88,15 +88,15 @@ Here is where the actual sermon content goes.
 ## Create a pull request and merge to deploy
 * If you've pushed your changes from Gitpod, everything should now be on your local fork.
 * Create a pull request to the sermon archives organization with your updated content.
-* After that pull request is merged, there is a github action that will deploy the changes to the sermon archive site.
+* After that pull request is merged, there is a GitHub action that will deploy the changes to the sermon archive site.
 * Open the [sermon archives site](https://sermonarchives.github.io/). Verify that the new content is there.  Refresh the page if necessary.
 * If you see the new sermon, great!
 
 ## Move your sermon content from the unsorted archive
 * Find the original content that is in the sermon archive in Google Drive
-* Right click the file(s) and select move.
+* Right-click the file(s) and select move.
 * The files should be moved to: My Drive/Sermon Archives/Sermons From Sermon Archive Site/(Your sermon number here)/
 * Once you've moved over the files, you're done!
 
-## Lather, Rise Repeat!
+## Lather, Rinse, Repeat!
 * Do this process for as many sermons as you would like.
