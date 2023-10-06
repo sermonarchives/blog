@@ -2,7 +2,7 @@
 title: "Word and Deed"
 date: 2023-10-06T03:21:21Z
 categories: ["sermons"]
-tags: ["Harry-Truman", "marriage", "Amen"]
+tags: ["Harry-Truman", "marriage", "Amen", "1996"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1996-09-29
