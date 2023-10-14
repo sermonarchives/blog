@@ -50,3 +50,6 @@ God bless you, confirmands, as you affirm your faith today. You have learned man
 The peace of God.....
 
 Amen.
+
+
+{{< youtube jC4O8JPMEQ4 >}}
