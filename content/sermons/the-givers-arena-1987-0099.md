@@ -2,7 +2,7 @@
 title: "The Givers' Arena"
 date: 2023-11-02T00:23:45Z
 categories: ["sermons"]
-tags: ["Louise-Degrafenreid", "1987", "all-saints-day", "St-Stephen-Lutheran-Church-Wausau-WI", "Gerhard-Frost"]
+tags: ["Louise-Degrafenried", "1987", "all-saints-day", "St-Stephen-Lutheran-Church-Wausau-WI", "Gerhard-Frost"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1987-11-01
@@ -17,7 +17,7 @@ _This is an All Saints Day sermon from 1987. The sermon includes several referen
 
 <!--more-->
 
-_The person in this sermon is Louise Degrafenreid, and the story seems like an improbable one, but I did some searching online, and found that Louise is indeed a real person, and the situation was real. Apparently, she did an interview with Guideposts magazine in October of 1984, and I found a picture of the cover and the first portion of the article, so I've included those images below the sermon. There is also a reference to a poem by Gerhard Frost, called "Going On", and I found that this poem was published in a (now out of print) book called [Blessed is the ordinaty](https://archive.org/details/blessedisordinar0000fros), so I've linked to a scan of the book from [archive.org](https://archive.org/). Google OCR was used to obtain a transcription of the text of the sermon. I also made a screenshot of the specific poem. The poem is underneath the Guideposts article. There is also a reference to the stained-glass windows in [St. Stephen Lutheran Church in Wausau](https://sslcwausau.com/), which were apparently purchased in 1910 for $10,000. Using the [U.S. Inflation Calculator](https://www.usinflationcalculator.com/), that amount equates to about $310,000 in 2023 dollars._
+_The person in this sermon is Louise Degrafenried, and the story seems like an improbable one, but I did some searching online, and found that Louise is indeed a real person, and the situation was real. Apparently, she did an interview with Guideposts magazine in October of 1984, and I found a picture of the cover and the first portion of the article, so I've included those images below the sermon. The Degrafenried story was also featured in [A Christian Justice for the Common Good](https://www.google.com/books/edition/A_Christian_Justice_for_the_Common_Good/nuf-CgAAQBAJ?hl=en&gbpv=1&dq=Louise+Degrafenreid&pg=PT19&printsec=frontcover), published in [2016](https://www.goodreads.com/book/show/26337471-a-christian-justice-for-the-common-good). There is also a reference to a poem by Gerhard Frost, called "Going On", and I found that this poem was published in a (now out of print) book called [Blessed is the Ordinary](https://archive.org/details/blessedisordinar0000fros), so I've linked to a scan of the book from [archive.org](https://archive.org/). Google OCR was used to obtain a transcription of the text of the sermon. I also made a screenshot of the specific poem. The poem is underneath the Guideposts article. There is also a reference to the stained-glass windows in [St. Stephen Lutheran Church in Wausau](https://sslcwausau.com/), which were apparently purchased in 1910 for $10,000. Using the [U.S. Inflation Calculator](https://www.usinflationcalculator.com/), that amount equates to about $310,000 in 2023 dollars._
 
 **The Givers' Arena - All Saints Day - 11/1/1987**
 
