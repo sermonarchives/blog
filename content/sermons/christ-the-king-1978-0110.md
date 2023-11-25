@@ -2,7 +2,7 @@
 title: "Christ the King"
 date: 2023-11-25T20:38:42Z
 categories: ["sermons"]
-tags: ["jonestown-massacre", "christ-the-king", "handwritten", "1978"]
+tags: ["jonestown-massacre", "christ-the-king", "handwritten", "1978", "ascension-lutheran-church-navarino-wi"]
 rcl_year: "A"
 rcl_season: "Pentecost"
 sermon_date: 1978-11-26
@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0110/ChristTheKing-Matthew25-11-26-1978-Large.jpg"
 sermon_number: "0110"
 ---
 
-_This handwritten sermon from 1978 starts with a pretty good joke. It's written in blue ink with yellow highlighting._
+_This handwritten sermon from 1978 starts with a pretty good joke. It's written in blue ink with yellow highlighting. This sermon mentions Ascension Lutheran Church of Navarino, WI._
 
 <!--more-->
 
