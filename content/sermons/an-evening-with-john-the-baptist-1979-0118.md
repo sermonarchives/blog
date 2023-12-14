@@ -17,7 +17,7 @@ _This sermon is a bit of an oddity. It was from December of 1979 and was perform
 
 <!--more-->
 
-_Here is more information about the sermon but it isn't included in the little blurb on the home screen. The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=49) in the Revised Common Lectionary. Included is a copy of the bulletin from that day, a picture of Pastor Steve dressed as John the Baptist, as well as John the Baptist's sermon notes. It seems that John the Baptist preferred to write in pencil._
+_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=49) in the Revised Common Lectionary. Included is a copy of the bulletin from that day, a picture of Pastor Steve dressed as John the Baptist, as well as John the Baptist's sermon notes. It seems that John the Baptist preferred to write in pencil._
 
 **An evening with John the Baptist - 2 Advent B - 12/6/1979**
 
