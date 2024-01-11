@@ -9,7 +9,7 @@ sermon_date: 1976-01-04
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-thumbnail: "/images/sermons/0131/2ndSundayAfterChristmasB-1-4-1976-Large"
+thumbnail: "/images/sermons/0131/2ndSundayAfterChristmasB-1-4-1976-Large.jpg"
 sermon_number: "0131"
 ---
 
@@ -21,4 +21,4 @@ _The gospel of this sermon isn't listed at the top but John is mentioned in the 
 
 **A Second Look at the Amazing Gift - 2 Christmas B - 1/4/1976**
 
-{{< figure src="/images/sermons/0131/2ndSundayAfterChristmasB-1-4-1976-Large" width="1080" >}}
+{{< figure src="/images/sermons/0131/2ndSundayAfterChristmasB-1-4-1976-Large.jpg" width="1080" >}}
