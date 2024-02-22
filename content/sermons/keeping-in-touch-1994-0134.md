@@ -2,7 +2,7 @@
 title: "Keeping in Touch"
 date: 2024-02-08T00:40:05Z
 categories: ["sermons"]
-tags: ["1994", "floppy-disk", "keep-in-touch", "prayer", "William-Willamon"]
+tags: ["1994", "epiphany", "floppy-disk", "keep-in-touch", "prayer", "William-Willamon"]
 rcl_year: "B"
 rcl_season: "Epiphany"
 sermon_date: 1994-02-06
