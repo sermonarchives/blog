@@ -2,7 +2,7 @@
 title: "A World of Widows"
 date: 2022-10-13T00:19:29Z
 categories: ["sermons"]
-tags: ["1989", "Green_Bay-Packers", "Chicago-Cubs", "prayer", "OCR", "19-Pent-C", "Luke18"]
+tags: ["1989", "Green-Bay-Packers", "Chicago-Cubs", "prayer", "OCR", "19-Pent-C", "Luke18"]
 rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 1989-11-15
