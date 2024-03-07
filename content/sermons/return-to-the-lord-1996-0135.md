@@ -9,7 +9,7 @@ sermon_date: 1996-02-21
 sermon_scan: false
 sermon_text: true
 sermon_audio: false
-thumbnail: "/images/thumbs/Steve022-crop.jpg"
+thumbnail: "/images/thumbs/SteveLarson-ChurchPhoto-crop.jpg"
 sermon_number: "0135"
 ---
 
