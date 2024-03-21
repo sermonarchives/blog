@@ -2,7 +2,7 @@
 title: "A Process of Subtraction"
 date: 2024-03-20T23:30:23Z
 categories: ["sermons"]
-tags: ["1988", "Meister-Eckhart", "surgery", "silence"]
+tags: ["1988", "Meister-Eckhart", "surgery", "silence", /"lent"]
 rcl_year: "B"
 rcl_season: "Lent"
 sermon_date: 1988-02-21
