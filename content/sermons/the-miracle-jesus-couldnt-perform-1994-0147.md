@@ -23,7 +23,7 @@ _The gospel text is Mark 15:31, which does correspond to [Palm Sunday B](https:/
 
 {{< figure src="/images/sermons/0147/PalmSundayB-3-27-1994-1.jpg" width="1080" >}}
 
-{{< figure src="/images/sermons/0147/PalmSundayB-3-27-1994-1.jpg" width="1080" >}}
+{{< figure src="/images/sermons/0147/PalmSundayB-3-27-1994-2.jpg" width="1080" >}}
 
 "In the same way the chief priests, along with the scribes, were also mocking (Jesus) among themselves and saying, 'He saved others; he cannot save himself."  May the words of my mouth and the meditation of each heart be acceptable in your sight, O God, our Rock and our Redeemer. Amen.
 
