@@ -17,7 +17,7 @@ _With All Saints Day coming up, I found a sermon from 1978 about mourning._
 
 <!--more-->
 
-_This sermon is from [All Saints Day, RCL Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=166). The sermon also includes a quote from [Robert Browning Hamilton](https://www.goodreads.com/quotes/289683-i-walked-a-mile-with-pleasure-she-chatted-all-the)._
+_This sermon is from [All Saints Day, RCL Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=83). The sermon also includes a quote from [Robert Browning Hamilton](https://www.goodreads.com/quotes/289683-i-walked-a-mile-with-pleasure-she-chatted-all-the)._
 
 **When We Mourn: Matthew 5:1-2 - 11/5/1978**
 
