@@ -17,7 +17,7 @@ _Here is a Pentecost sermon that I have two different copies scanned. One copy i
 
 <!--more-->
 
-_The Gospel text for this sermon is [Luke 18: 9-14](https://lectionary.library.vanderbilt.edu/texts.php?id=285). The sermon lists "23 Pentecost C" as the lectionary, but the Gospel text from Luke is now a part of the [20th Sunday after Pentecost in Year C](https://lectionary.library.vanderbilt.edu/texts.php?id=285) of the Revised Common Lectionary._
+_The Gospel text for this sermon is Luke 18: 9-14. The sermon lists "23 Pentecost C" as the lectionary, but the Gospel text from Luke is now a part of the [20th Sunday after Pentecost in Year C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=p&d=81) of the Revised Common Lectionary._
 
 _The sermon mentions that it is World Hunger Sunday. It also mentions the recent occurance of the [Los Angeles Riots](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots). There is an additional story about [the beating of Fidel Lopez and Bennie Newton's rescue attempt](https://abc7.com/la-riots-los-angeles-fidel-lopez-riot-coverage/1931815/)._
 
