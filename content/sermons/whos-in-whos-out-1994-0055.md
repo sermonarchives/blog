@@ -2,7 +2,7 @@
 title: "Who's in, Who's Out?"
 date: 2018-11-26T22:40:20-06:00
 categories: ["sermons"]
-tags: ["Congress", "1994", "Christ-The-King-Sunday", "Congress"]
+tags: ["Congress", "1994", "Christ-The-King-Sunday"]
 rcl_year: "B"
 rcl_season: ""
 sermon_date: 1994-11-20

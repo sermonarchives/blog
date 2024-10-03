@@ -17,7 +17,7 @@ _Here is a typed sermon from 1990. It references the Cubs winning the pennant as
 
 <!--more-->
 
-_There is a reference to [Lifestyles of the Rich and Famous](https://en.wikipedia.org/wiki/Lifestyles_of_the_Rich_and_Famous) in this sermon. The sermon lists the 18th Sunday after Pentecost as the Lectionary, but the gospel that is cited (Matthew 20:1-16) actually comes from the [17th Sunday after Pentecost in Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=160). It's possible that this is because of a change in the Lectionary after this sermon was written. Text of this sermon is available by using OCR from Google Docs._
+_There is a reference to [Lifestyles of the Rich and Famous](https://en.wikipedia.org/wiki/Lifestyles_of_the_Rich_and_Famous) in this sermon. The sermon lists the 18th Sunday after Pentecost as the Lectionary, but the gospel that is cited (Matthew 20:1-16) actually comes from the [17th Sunday after Pentecost in Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=76). It's possible that this is because of a change in the Lectionary after this sermon was written. Text of this sermon is available by using OCR from Google Docs._
 
 **Why Won't God Be Fair? - 17 Pent A - 10/6/1990**
 

@@ -16,7 +16,7 @@ _This is a sermon which has both scanned pages and text available.  It was preac
 
 <!--more-->
 
-_The gospel text is Matthew 22: 17 and 21, corresponding to the [20th Sunday After Pentecost in the RCL](https://lectionary.library.vanderbilt.edu/texts.php?id=164), despite the sermon listing the 21st Sunday after Pentecost._
+_The gospel text is Matthew 22: 17 and 21, corresponding to the [20th Sunday After Pentecost in the RCL](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=79), despite the sermon listing the 21st Sunday after Pentecost._
 
 **WHO'S IN CHARGE? 21 PentA (RCL) (10/20/96) Mt.22:17,21**
 
