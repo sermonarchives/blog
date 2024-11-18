@@ -16,7 +16,7 @@ _Scanned, this sermon is typed with a variety of different colored higlights in 
 
 <!--more-->
 
-_Gospel text noted as John 20:1-9, which puts this sermon into [Easter A/B/C in the Revised Common Lectionary](http://lectionary.library.vanderbilt.edu/texts.php?id=38). There's a fun story about a man named "Lo"._
+_Gospel text noted as John 20:1-9, which puts this sermon into [Easter A/B/C in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=s&d=42). There's a fun story about a man named "Lo"._
 
 **Fearful Doubts Or Exciting Faith - Easter Sunrise - 3/30/1975**
 

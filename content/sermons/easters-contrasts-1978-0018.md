@@ -16,7 +16,7 @@ _Scanned, handwritten sermon for Easter of 1978.  My guess is that this was prea
 
 <!--more-->
 
-_Gospel text noted as Matthew 28: 1-10, which likely puts this sermon into [Year A for Easter in the Revised Common Lectionary](http://lectionary.library.vanderbilt.edu/texts.php?id=38)._
+_Gospel text noted as Matthew 28: 1-10, which likely puts this sermon into [Year A for Easter in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=s&d=42)._
 
 **Easter's Contrasts - Easter Festival - 3/26/1978**
 
