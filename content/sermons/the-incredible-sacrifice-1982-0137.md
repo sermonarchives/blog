@@ -17,7 +17,7 @@ _This is a typed Lenten sermon from April of 1982. The typed sermon includes som
 
 <!--more-->
 
-_The sermon indicates that it was originally a midweek Lenten sermon, and lists the [First Sunday of Lent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=71) as its place in the lectionary, but the gospel lesson of Genesis 22:1-18 only seems to appear in the [Easter Vigil](https://lectionary.library.vanderbilt.edu/texts.php?id=84) in the Revised Common Lectionary. There is a reference to a ceremony with Joseph Kramer from 1972, but I had trouble finding references to this event online._
+_The sermon indicates that it was originally a midweek Lenten sermon, and lists the [First Sunday of Lent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=25) as its place in the lectionary, but the gospel lesson of Genesis 22:1-18 only seems to appear in the [Easter Vigil](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=s&d=41) in the Revised Common Lectionary. There is a reference to a ceremony with Joseph Kramer from 1972, but I had trouble finding references to this event online._
 
 **The Incredible Sacrifice - 1 Lent B - 4/1/1982**
 
