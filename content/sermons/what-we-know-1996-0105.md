@@ -17,7 +17,7 @@ _This is a typed Pentecost sermon from November of 1996. It mentions that he has
 
 <!--more-->
 
-_This sermon mentions that as a child, on Sunday afternoons, he often either sat on the porch or played the card game [Rook](https://boardgamegeek.com/boardgame/1260/rook). The gospel text is listed as Matthew 25: 1-13, which does correlate to the [24th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=168) in the Revised Common Lectionary. Google Docs OCR was used to get a transcription of the scanned sermon._
+_This sermon mentions that as a child, on Sunday afternoons, he often either sat on the porch or played the card game [Rook](https://boardgamegeek.com/boardgame/1260/rook). The gospel text is listed as Matthew 25: 1-13, which does correlate to the [24th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=84) in the Revised Common Lectionary. Google Docs OCR was used to get a transcription of the scanned sermon._
 
 **What We Know - 24 Pent A - 11/10/1996**
 
