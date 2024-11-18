@@ -17,7 +17,7 @@ _Here is a Palm Sunday sermon from 1994.  I have both the scanned printout that 
 
 <!--more-->
 
-_The gospel text is Mark 15:31, which does correspond to [Palm Sunday B](https://lectionary.library.vanderbilt.edu/texts.php?id=77), also known as the Liturgy of the Passion. There is a reference to a painting of Faust, and I think the painting is called Faust and Mephistopheles playing chess. I will include that image in the relevant part of the sermon._
+_The gospel text is Mark 15:31, which does correspond to [Palm Sunday B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=34), also known as the Liturgy of the Passion. There is a reference to a painting of Faust, and I think the painting is called Faust and Mephistopheles playing chess. I will include that image in the relevant part of the sermon._
 
 **THE MIRACLE JESUS COULDN'T PERFORM - Palm Sunday B - 3/27/94 - Mark 15:31**
 
