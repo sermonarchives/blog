@@ -17,7 +17,7 @@ _This is a sermon that was printed and highlighted, and preached in 1995. There 
 
 <!--more-->
 
-_I found the old WordPerfect file on a 3.5 inch disk, and was able to open it up in LibreOffice, so I have posted the sermon text below the scanned images. The Gospel text for this sermon is [Luke 18: 9-14](https://lectionary.library.vanderbilt.edu/texts.php?id=285). The sermon lists "23 Pentecost" as the lectionary, but the Gospel text from Luke is now a part of the [20th Sunday after Pentecost in Year C](https://lectionary.library.vanderbilt.edu/texts.php?id=285) of the Revised Common Lectionary._
+_I found the old WordPerfect file on a 3.5 inch disk, and was able to open it up in LibreOffice, so I have posted the sermon text below the scanned images. The Gospel text for this sermon is Luke 18: 9-14. The sermon lists "23 Pentecost" as the lectionary, but the Gospel text from Luke is now a part of the [20th Sunday after Pentecost in Year C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=p&d=81) of the Revised Common Lectionary._
 
 _The sermon references the song [It's Hard to Be Humble](https://youtu.be/IlQMCJalSKw) by Mac Davis (who performed the song on The Muppet Show). That song has become a standard of the [UW Badgers Marching Band](https://youtu.be/pvjthssw_Lo). It also references Adolf Hitler's [Mein Kampf](https://en.wikipedia.org/wiki/Mein_Kampf) and Benito Mussolini's [My Autobiography](https://en.wikipedia.org/wiki/My_Autobiography_(Mussolini_book)) as examples of the type of boasting that occurs in the prayers of the Pharisee. There's also a reference to [JR Ewing from the TV show Dallas](https://en.wikipedia.org/wiki/J._R._Ewing)._
 
