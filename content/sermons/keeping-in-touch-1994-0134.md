@@ -17,7 +17,7 @@ _Here is of my first "digital-only" sermons. I found this one on a floppy disk w
 
 <!--more-->
 
-_The sermon does appear to be for the [Fifth Sunday after the Epiphany](https://lectionary.library.vanderbilt.edu/texts.php?id=64). This sermon includes a reference to theologian and bishop [William Willamon](https://en.wikipedia.org/wiki/William_Henry_Willimon). There is also a reference to a hymn with the lyrics "O what peace we often forfeit, O what needless pain we bear", which appears to be [What A Friend We Have in Jesus](https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s). I was able to find a video on [Youtube](https://youtu.be/AubmN7UYlRQ?si=VZ3LRTAJ5wbq_sA2) of Aretha Franklin singing this hymn in 1972, so I've included it after the text of the sermon._
+_The sermon does appear to be for the [Fifth Sunday after the Epiphany](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=e&d=18). This sermon includes a reference to theologian and bishop [William Willamon](https://en.wikipedia.org/wiki/William_Henry_Willimon). There is also a reference to a hymn with the lyrics "O what peace we often forfeit, O what needless pain we bear", which appears to be [What A Friend We Have in Jesus](https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s). I was able to find a video on [Youtube](https://youtu.be/AubmN7UYlRQ?si=VZ3LRTAJ5wbq_sA2) of Aretha Franklin singing this hymn in 1972, so I've included it after the text of the sermon._
 
 **KEEPING IN TOUCH - 5EpiphB - Mk.1:35 - 2/6/1994**
 
