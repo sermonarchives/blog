@@ -16,7 +16,7 @@ _Typed sermon from 1976._
 
 <!--more-->
 
-_This sermon references Matthew 6:1-13 as the text, which is close to the Revised Common Lectionary text for [Ash Wednesday](http://lectionary.library.vanderbilt.edu/texts.php?id=117)._
+_This sermon references Matthew 6:1-13 as the text, which is close to the Revised Common Lectionary text for [Ash Wednesday](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=24)._
 
 **What Are You Doing That For? - Ash Wednesday (3/3/1976)**
 

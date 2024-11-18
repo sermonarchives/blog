@@ -16,7 +16,7 @@ _Undated, handwritten sermon. I'm going to guess this as coming from 1972._
 
 <!--more-->
 
-_Gospel text is listed as Matthew 6:1-8, later noted as [Ash Wednesday](http://lectionary.library.vanderbilt.edu/texts.php?id=117)._
+_Gospel text is listed as Matthew 6:1-8, later noted as [Ash Wednesday](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=24)._
 
 **God Sees In Secret - Ash Wednesday (1972)**
 

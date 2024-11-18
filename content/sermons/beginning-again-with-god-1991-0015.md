@@ -16,7 +16,7 @@ _Printed and highlighted sermon from 1991._
 
 <!--more-->
 
-_Sermon text listed as Psalm 51:1-2, for [Ash Wednesday](http://lectionary.library.vanderbilt.edu/texts.php?id=117)._
+_Sermon text listed as Psalm 51:1-2, for [Ash Wednesday](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=24)._
 
 **Beginning Again With God -Ash Wednesday (2/13/1991)**
 
