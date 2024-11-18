@@ -17,7 +17,7 @@ _Here is a handwritten Lenten sermon from 1976. It is written in pencil and blue
 
 <!--more-->
 
-_The sermon was originally listed as 4 Lent, but the Gospel lesson from John2 now correlates to [the Third Sunday of Lent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=73). The end of the sermon mentions lyrics from a hymn, and that hymn appears to be [Built on The Rock](https://hymnary.org/text/built_on_the_rock_the_church_doth_stand). I'll include a video of the hymn being performed after the sermon._
+_The sermon was originally listed as 4 Lent, but the Gospel lesson from John2 now correlates to [the Third Sunday of Lent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=27). The end of the sermon mentions lyrics from a hymn, and that hymn appears to be [Built on The Rock](https://hymnary.org/text/built_on_the_rock_the_church_doth_stand). I'll include a video of the hymn being performed after the sermon._
 
 **What Worship Really Is - 3 Lent B - 1976**
 
