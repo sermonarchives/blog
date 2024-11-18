@@ -17,7 +17,7 @@ _Here is a handwritten midweek Lenten sermon from 1978. There's even a reference
 
 <!--more-->
 
-_The gospel lesson is listed as Col. 3:16. The only place that verse seems to appear in the Revised Common Lectionary is [The First Sunday after Christmas in year C](https://lectionary.library.vanderbilt.edu/texts.php?id=102#epistle_reading). There is also a reference to theologian [Elton Trueblood](https://en.wikipedia.org/wiki/D._Elton_Trueblood) in this sermon._
+_The gospel lesson is listed as Col. 3:16. The only place that verse seems to appear in the Revised Common Lectionary is [The First Sunday after Christmas in year C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=c&d=8). There is also a reference to theologian [Elton Trueblood](https://en.wikipedia.org/wiki/D._Elton_Trueblood) in this sermon._
 
 **What's the church for? - Lent - 3/1/1978**
 
