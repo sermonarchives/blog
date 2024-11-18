@@ -17,7 +17,7 @@ _Here is a handwritten Advent sermon from December of 1978. It's written with bl
 
 <!--more-->
 
-_The Gospel message from John 1 and the notation of "3d S. Advent" link this sermon to the [third Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=50) of the Revised Common Lectionary. This sermon uses the imagery of lights in a variety of different contexts to tell many of the stories._
+_The Gospel message from John 1 and the notation of "3d S. Advent" link this sermon to the [third Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=3) of the Revised Common Lectionary. This sermon uses the imagery of lights in a variety of different contexts to tell many of the stories._
 
 **Advent Light - 3 Advent B - 12/17/1978**
 
