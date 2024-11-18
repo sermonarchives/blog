@@ -17,7 +17,7 @@ _This is a handwritten Advent sermon from 1978. It's written in blue ink on blue
 
 <!--more-->
 
-_There's an additional date of 12/81 on the sermon, so there is a chance that this sermon was preached to both Ascension in Navarino as well as St. Stephen Lutheran Church in Wausau. My guess is that the black pen marks and red pencil are edits that were made in 1981. The Gospel text from Luke 1 would link this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=51) of the Revised Common Lectionary._
+_There's an additional date of 12/81 on the sermon, so there is a chance that this sermon was preached to both Ascension in Navarino as well as St. Stephen Lutheran Church in Wausau. My guess is that the black pen marks and red pencil are edits that were made in 1981. The Gospel text from Luke 1 would link this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=4) of the Revised Common Lectionary._
 
 **A Turned-Around Christmas - 4 Advent B/Christmas Eve - 12/24/1978**
 
