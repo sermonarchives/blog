@@ -17,7 +17,7 @@ _Here is a typed sermon from 1990. It has the same sermon title as the last serm
 
 <!--more-->
 
-_The sermon lists 20 Pent A as the season but the gospel now corresponds to the [19th Sunday After Pentecost in year A](https://lectionary.library.vanderbilt.edu/texts.php?id=162). I was able to use Google's OCR to get the text from these images. This sermon refers to the lyrics of a hymn during the sermon which is called [We Give Thee But Thine Own](https://hymnary.org/text/we_give_thee_but_thine_own), so I posted a video of someone signing the hymn below the sermon text. He referred to this hymn in the 1993 sermon, as well._
+_The sermon lists 20 Pent A as the season but the gospel now corresponds to the [19th Sunday After Pentecost in year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=78). I was able to use Google's OCR to get the text from these images. This sermon refers to the lyrics of a hymn during the sermon which is called [We Give Thee But Thine Own](https://hymnary.org/text/we_give_thee_but_thine_own), so I posted a video of someone signing the hymn below the sermon text. He referred to this hymn in the 1993 sermon, as well._
 
 **ALL THAT WE HAVE - 19 Pent A - 10/21/90**
 
