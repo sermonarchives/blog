@@ -16,7 +16,7 @@ _This sermon was preached at Emmanuel Lutheran Church, as a part of a "Polka Ser
 
 <!--more-->
 
-_The text is from the [Eleventh Sunday of Pentecost B](http://lectionary.library.vanderbilt.edu/texts.php?id=214)._
+_The text is from the [Eleventh Sunday of Pentecost B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=p&d=67)._
 
  _Exodus 16: 11-12 is listed as the sermon text._
 
