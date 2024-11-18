@@ -17,7 +17,7 @@ _Here is a typed Ephiphany sermon from 1974 with annotations in green, red, and 
 
 <!--more-->
 
-_The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=12)._
+_The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=e&d=12)._
 
 _There is a poem in second half of the sermon, and I suspect that the poem is "Advent" by poet [John Gould Fletcher](https://www.poetryfoundation.org/poets/john-gould-fletcher). I found an old printing of the poem in an [old book from 1920 on Google Books](https://www.google.com/books/edition/_/TSCYOcOKxncC?hl=en&gbpv=1&bsq=Advent%20John%20Gould%20Fletcher), so I'm going to include that page below. At the end of the sermon, there is a reference to "434 Beautiful Savior". 434 is probably the hymn number in the old [red hymnal](https://hymnary.org/hymnal/SBHC1958?page=5). I'll include the sheet music from [hymnary.org](https://hymnary.org/hymn/SBHC1958/page/797) as well as a Youtube video of an unrelated performance of the hymn after the that._
 
