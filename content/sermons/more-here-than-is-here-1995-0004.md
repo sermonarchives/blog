@@ -16,7 +16,7 @@ _I found two copies of this sermon in the archives - one was black and white, th
 
 <!--more-->
 
-_This is a sermon from 1995, preached for [Transfiguration Sunday C](http://lectionary.library.vanderbilt.edu/texts.php?id=116)._
+_This is a sermon from 1995, preached for [Transfiguration Sunday C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=23)._
 
 _The sermon refers to "A Study of Generations". I've found an article referring to the study in PDF form [here](http://www.ctsfw.net/media/pdfs/surburgstudyofgenerations.pdf)._
 

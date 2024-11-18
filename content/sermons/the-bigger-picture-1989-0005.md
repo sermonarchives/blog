@@ -16,7 +16,7 @@ _This sermon was preached in February of 1989 for Transfiguration Sunday._
 
 <!--more-->
 
- _The text is from Luke 9:34, presumably making this sermon the equivalent of [Transfiguration Sunday C](http://lectionary.library.vanderbilt.edu/texts.php?id=116)._
+ _The text is from Luke 9:34, presumably making this sermon the equivalent of [Transfiguration Sunday C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=23)._
 
 _The Sermon refers to Buena Vista Park in Alma, WI. [Here it is on Google Maps](https://www.google.com/maps/place/Buena+Vista+Park/@44.3239746,-91.9136444,17z/data=!4m2!3m1!1s0x87f9ac0a5c10824d:0x5a55d5987e893c83)._
 
