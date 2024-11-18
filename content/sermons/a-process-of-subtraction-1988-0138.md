@@ -17,7 +17,7 @@ _Here is a typed Lenten sermon from February of 1988. It is marked up in red pen
 
 <!--more-->
 
-_The Gospel listed is Mark 1:12-13, which corresponds to the [The First Sunday of Lent](https://lectionary.library.vanderbilt.edu/texts.php?id=71) in Year B of the Revised Common Lectionary. There is a quote from [Meister Eckhart](https://en.wikipedia.org/wiki/Meister_Eckhart) in this sermon, although the version of the quote I see on Goodreads(https://www.goodreads.com/quotes/27770-nothing-in-all-creation-is-so-like-god-as-stillness) references stillness instead of silence. The hymn following the sermon is listed as [O Lord Throughout these Forty Days](https://hymnary.org/text/lord_who_throughout_these_forty_days).  I will embed a video of this hymn after the sermon._
+_The Gospel listed is Mark 1:12-13, which corresponds to the [The First Sunday of Lent](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=25) in Year B of the Revised Common Lectionary. There is a quote from [Meister Eckhart](https://en.wikipedia.org/wiki/Meister_Eckhart) in this sermon, although the version of the quote I see on [Goodreads](https://www.goodreads.com/quotes/27770-nothing-in-all-creation-is-so-like-god-as-stillness) references stillness instead of silence. The hymn following the sermon is listed as [O Lord Throughout these Forty Days](https://hymnary.org/text/lord_who_throughout_these_forty_days).  I will embed a video of this hymn after the sermon._
 
 **A Process of Subtraction - 1 Lent B - 02/21/1988**
 
