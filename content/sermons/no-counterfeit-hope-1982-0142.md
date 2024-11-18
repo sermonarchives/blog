@@ -17,7 +17,7 @@ _Here is a typed sermon from April of 1982. The original church season is listed
 
 <!--more-->
 
-_The preaching text listed is from Exodus 20, which does correlate to [the Third Sunday of Lent in year B](https://lectionary.library.vanderbilt.edu/texts.php?id=73)._
+_The preaching text listed is from Exodus 20, which does correlate to [the Third Sunday of Lent in year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=27)._
 
 **No Counterfeit Hope - 3 Lent B - 4/25/1982**
 

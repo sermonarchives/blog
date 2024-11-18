@@ -17,7 +17,7 @@ _Here is an interesting Christmas Eve sermon. It is undated, partially typed, bu
 
 <!--more-->
 
-_The gospel text is from Luke 2, which means that it is part of the Christmas season, not Advent.  I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=52) in the Revised Common Lectionary._
+_The gospel text is from Luke 2, which means that it is part of the Christmas season, not Advent.  I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=5) in the Revised Common Lectionary._
 
 **Christmas Eve Sermon - Year Unknown**
 

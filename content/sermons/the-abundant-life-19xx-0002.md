@@ -16,7 +16,7 @@ _Date of sermon unknown. I would presume this sermon is from the late 1960's or 
 
 <!--more-->
 
-_A note is written at the top, denoting it as the [Second Sunday of Epiphany C](http://lectionary.library.vanderbilt.edu/texts.php?id=108)._
+_A note is written at the top, denoting it as the [Second Sunday of Epiphany C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=14)._
 
 **The Abundant Life - 2 Epiph C - 19XX**
 

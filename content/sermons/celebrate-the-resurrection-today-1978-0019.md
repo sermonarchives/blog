@@ -16,7 +16,7 @@ _Scanned, this sermon is a combination of handwritten and typed.  It's for Easte
 
 <!--more-->
 
-_Gospel text noted as John 20:8, which puts this sermon into [Easter A/B/C in the Revised Common Lectionary](http://lectionary.library.vanderbilt.edu/texts.php?id=38)._
+_Gospel text noted as John 20:8, which puts this sermon into [Easter A/B/C in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=s&d=42)._
 
 
 **Celebrate The Resurrection Today - Easter Sunrise - 3/26/1978**

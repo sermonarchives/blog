@@ -18,7 +18,7 @@ _The text refers to Navarino, and this was likely preached at Ascension Lutheran
 
 <!--more-->
 
-_The text is from Luke 9, presumably making this sermon for the equivalent of [Transfiguration Sunday C](http://lectionary.library.vanderbilt.edu/texts.php?id=116)._
+_The text is from Luke 9, presumably making this sermon for the equivalent of [Transfiguration Sunday C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=23)._
 
 **Evangelism: Mountain or Molehill? - Transfiguration - (2/20/1977)**
 

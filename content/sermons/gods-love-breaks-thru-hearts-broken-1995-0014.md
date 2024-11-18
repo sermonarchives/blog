@@ -16,7 +16,7 @@ _I found this sermon in both typed and digital formats._
 
 <!--more-->
 
-_This sermon text is Psalm 51:18, and the lectionary week is [Ash Wednesday C](http://lectionary.library.vanderbilt.edu/texts.php?id=117)._
+_This sermon text is Psalm 51:18, and the lectionary week is [Ash Wednesday C](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=24)._
 
 **GOD'S LOVE BREAKS THROUGH WHEN HEARTS ARE BROKEN TEARFULLY - Ash Wednesday (3/1/1995)**
 

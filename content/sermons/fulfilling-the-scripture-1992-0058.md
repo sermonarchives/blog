@@ -17,7 +17,7 @@ _Scanned, this sermon is typed and highlighted. It mentions President "Busch", a
 
 <!--more-->
 
-_Gospel text noted as Luke 4:21, which puts this sermon into [the Third Sunday of Epiphany of Year C](https://lectionary.library.vanderbilt.edu/texts.php?id=109). There's a reference to the Annual Meeting of the Church happening later that day, and a request for people to volunteer to join the Church Council, since they were unable to find enough nominees. A quote from Vanderbilt professor David Buttrick is included in this sermon.  [Here](https://news.vanderbilt.edu/2017/04/27/renowned-preaching-professor-at-vanderbilt-dies/) is an article about Dr. Buttrick that was written upon his passing in 2017._
+_Gospel text noted as Luke 4:21, which puts this sermon into [the Third Sunday of Epiphany of Year C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=15). There's a reference to the Annual Meeting of the Church happening later that day, and a request for people to volunteer to join the Church Council, since they were unable to find enough nominees. A quote from Vanderbilt professor David Buttrick is included in this sermon.  [Here](https://news.vanderbilt.edu/2017/04/27/renowned-preaching-professor-at-vanderbilt-dies/) is an article about Dr. Buttrick that was written upon his passing in 2017._
 
 **Fulfilling the Scripture**
 

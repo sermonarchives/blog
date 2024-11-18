@@ -16,7 +16,7 @@ _This sermon was found in digital form on a 3.5 inch floppy disk. It is from Feb
 
 <!--more-->
 
-_The sermon is listed as being for [Transfiguration Sunday, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=69) which is the last Sunday before Lent._
+_The sermon is listed as being for [Transfiguration Sunday, Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=e&d=23) which is the last Sunday before Lent._
 
 Dear friends in Christ, grace & peace...
 

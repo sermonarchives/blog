@@ -17,7 +17,7 @@ _Here is the Christmas Day sermon from 1990, meaning that it was given within ab
 
 <!--more-->
 
-_A scan is available of the bulletin from this service, and I was able to use OCR to get the text of the sermon from the scanned sermon pages. The gospel text is from John 1. This text is a part of each Christmas season, [including Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=54) in the Revised Common Lectionary._
+_A scan is available of the bulletin from this service, and I was able to use OCR to get the text of the sermon from the scanned sermon pages. The gospel text is from John 1. This text is a part of each Christmas season, [including Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=7) in the Revised Common Lectionary._
 
 
 **THE CHRISTMAS FAMILY - Christmas Day - 12/25/1990**

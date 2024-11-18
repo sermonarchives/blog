@@ -17,7 +17,7 @@ _This sermon is a typed All Saints Day sermon from 1976, with notes and highligh
 
 <!--more-->
 
-_I tried to use Google OCR to transcribe this sermon, and that text is below the scanned image. The gospel message is from Matthew 5, which corresponds to the All Saints Day text for [Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=166) in the Revised Common Lectionary. This sermon shares a name with a previously posted sermon from 1988, but the content seems different between the two._
+_I tried to use Google OCR to transcribe this sermon, and that text is below the scanned image. The gospel message is from Matthew 5, which corresponds to the All Saints Day text for [Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=83) in the Revised Common Lectionary. This sermon shares a name with a previously posted sermon from 1988, but the content seems different between the two._
 
 **FOR ALL THE SAINTS - All Saints Day - 11/07/1976**
 

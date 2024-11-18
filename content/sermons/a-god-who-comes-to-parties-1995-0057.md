@@ -17,7 +17,7 @@ _Printed and highlighted sermon from 1995. OCR has been used to create a text ve
 
 <!--more-->
 
-_Sermon text listed as John 2:1-11, for [The Second Sunday of Epiphany C](https://lectionary.library.vanderbilt.edu/texts.php?id=108). The sermon mentions a visitor from a member of their sister synod, [The Western Diocese of Southern Africa](http://www.elcsa.org.za/wd-diocesan-office-.html)._
+_Sermon text listed as John 2:1-11, for [The Second Sunday of Epiphany C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=14). The sermon mentions a visitor from a member of their sister synod, [The Western Diocese of Southern Africa](http://www.elcsa.org.za/wd-diocesan-office-.html)._
 
 {{< figure src="/images/sermons/0057/2EpiphC-1-15-1995-1-scaled.jpg" width="1200" >}}
 

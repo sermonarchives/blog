@@ -17,7 +17,7 @@ _Here is a typed Epiphany sermon from 1990. In the spirit of being 1990, Sadaam 
 
 <!--more-->
 
-_The sermon is titled after a story of King Ebrahim. I found a wiki page about [Ibrahim Bin Adham](https://sufiwiki.com/content/ibrahim_bin_adham/) which contains that story and a few others, if you are interested in more stories about this person. The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=12)._
+_The sermon is titled after a story of King Ebrahim. I found a wiki page about [Ibrahim Bin Adham](https://sufiwiki.com/content/ibrahim_bin_adham/) which contains that story and a few others, if you are interested in more stories about this person. The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=e&d=12)._
 
 **A Camel on the Roof - Epiphany - 1-6-1990**
 

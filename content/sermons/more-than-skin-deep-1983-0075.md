@@ -16,7 +16,7 @@ _This sermon was from 1983 and was scanned from a hand-typed copy, including a v
 
 <!--more-->
 
-_The sermon is listed as being for 21 Pentecost, but that may have predated the RCL, because the gospel text of Luke 17:19 is now for the [The 18th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=283)._ 
+_The sermon is listed as being for 21 Pentecost, but that may have predated the RCL, because the gospel text of Luke 17:19 is now for the [The 18th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=p&d=79)._ 
 
 _There's a reference to Charlie Brown in this sermon. It mentions Lucy, but if the internet Peanuts Fandom Wiki is to be believed, it may have actually been [Violet Gray](https://peanuts.fandom.com/wiki/Violet_Gray#%22We're_having_a_party,_and_you're_not_invited!%22) that didn't invite him to the party._
 

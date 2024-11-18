@@ -17,7 +17,7 @@ _Here is a handwritten Advent sermon from December of 1975. It's written on gree
 
 <!--more-->
 
-_The Gospel text from Luke 1 would correlate this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=51) of the Revised Common Lectionary._
+_The Gospel text from Luke 1 would correlate this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=4) of the Revised Common Lectionary._
 
 **Born of the Virgin Mary - 4 Advent B - 12/22/1975**
 

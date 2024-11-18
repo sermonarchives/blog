@@ -17,7 +17,7 @@ _This sermon is a combination of typing and handwriting in red and black ink. It
 
 <!--more-->
 
-_The Gospel text is listed as [Luke 3:1-6](https://lectionary.library.vanderbilt.edu/texts.php?id=96), which corresponds to the second week of Advent in year C. There is a hymn listed to follow the sermon, [Lord, speak to me, that I may speak 538](https://hymnary.org/hymn/SBHC1958/538). I found a recording of the Hymn, and will include it below the sermon._
+_The Gospel text is listed as [Luke 3:1-6](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=a&d=2), which corresponds to the second week of Advent in year C. There is a hymn listed to follow the sermon, [Lord, speak to me, that I may speak 538](https://hymnary.org/hymn/SBHC1958/538). I found a recording of the Hymn, and will include it below the sermon._
 
 **PREPARE THE WAY - Advent 2 - 12/9/197X**
 

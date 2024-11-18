@@ -16,7 +16,7 @@ _This sermon is from January of 1983 for the Second Sunday of Christmas._
 
 <!--more-->
 
-_The gospel is listed as John 1:1-18. It seems like years A, B, and C have the same gospel text for the [Second Sunday of Christmas](https://lectionary.library.vanderbilt.edu/texts.php?id=11)._
+_The gospel is listed as John 1:1-18. It seems like years A, B, and C have the same gospel text for the [Second Sunday of Christmas](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=11)._
 
 **A Word For Life: 1/2/1983**
 

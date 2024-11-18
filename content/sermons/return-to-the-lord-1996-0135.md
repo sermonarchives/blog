@@ -17,7 +17,7 @@ _Here is another of my "digital-only" sermons. I found this one on a floppy disk
 
 <!--more-->
 
-_The gospel for this sermon is listed as Joel 2:12-13a, which appears to be a part of every Ash Wednesday liturgy, but I'm going to consider this a part of [Year B of Ash Wednesday](https://lectionary.library.vanderbilt.edu/texts.php?id=70) in the Revised Common Lectionary._
+_The gospel for this sermon is listed as Joel 2:12-13a, which appears to be a part of every Ash Wednesday liturgy, but I'm going to consider this a part of [Year B of Ash Wednesday](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=24) in the Revised Common Lectionary._
 
 **RETURN TO THE LORD - Ash Wednesday - Joel 2:12-13a - 2/21/96**
                         

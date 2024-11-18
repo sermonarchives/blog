@@ -17,7 +17,7 @@ _This is a typed sermon from 1986 mentioning "Celebration Sunday". It mentions S
 
 <!--more-->
 
-_The novel ["A Tale of Two Cities"](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities) by Charles Dickens is mentioned. This sermon mentions three different scripture passages. They are Malachi 4:2, 2 Thess.3:13, and Luke 21:13.  The sermon contextualizes the message to each historical setting from the time that the passage was written. The sermon lists 26 Pent C as the sermon context, which matches up to [Proper 28](https://lectionary.library.vanderbilt.edu/texts.php?id=289) in the season after Pentecost of the Revised Common Lectionary. Google Docs OCR was used to obtain the text of this sermon._
+_The novel ["A Tale of Two Cities"](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities) by Charles Dickens is mentioned. This sermon mentions three different scripture passages. They are Malachi 4:2, 2 Thess.3:13, and Luke 21:13.  The sermon contextualizes the message to each historical setting from the time that the passage was written. The sermon lists 26 Pent C as the sermon context, which matches up to [Proper 28](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=p&d=85) in the season after Pentecost of the Revised Common Lectionary. Google Docs OCR was used to obtain the text of this sermon._
 
 **The Best and Worst of Times - 26 Pent C - 11/16/1986**
 

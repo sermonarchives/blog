@@ -17,7 +17,7 @@ _Here is a typed advent sermon from 1984. Given the date, it was likely preached
 
 <!--more-->
 
-_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=49) in the Revised Common Lectionary. This sermon quotes a line from the poem [Mending Wall](https://www.poetryfoundation.org/poems/44266/mending-wall) by [Robert Frost](https://www.poetryfoundation.org/poets/robert-frost). The sermon also mentions that this Sunday was "Accessibility Sunday"._
+_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=2) in the Revised Common Lectionary. This sermon quotes a line from the poem [Mending Wall](https://www.poetryfoundation.org/poems/44266/mending-wall) by [Robert Frost](https://www.poetryfoundation.org/poets/robert-frost). The sermon also mentions that this Sunday was "Accessibility Sunday"._
 
 **THE STRAIGHT WAY - 2 Advent B - 12/9/1984**
 

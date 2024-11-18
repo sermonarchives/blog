@@ -16,7 +16,7 @@ _This sermon was preached in February of 1986 for Transfigration Sunday.  Presum
 
 <!--more-->
 
-_The text is from Luke 9:33-35, presumably making this sermon the equivalent of [Transfiguration Sunday C](http://lectionary.library.vanderbilt.edu/texts.php?id=116)._
+_The text is from Luke 9:33-35, presumably making this sermon the equivalent of [Transfiguration Sunday C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=23)._
 
 **A Dazzling, Down-to-Earth Lord - Transfiguration Sunday- (2/9/1986)**
 

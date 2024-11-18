@@ -17,7 +17,7 @@ _Here is a printed and highlighed Advent sermon from 1987. There is a bunch of y
 
 <!--more-->
 
-_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=49) in the Revised Common Lectionary. There is a reference to a psychologist named Robert Mowrer, but I think that he is referring to [Orval Hobart Mowrer](https://en.wikipedia.org/wiki/Orval_Hobart_Mowrer). There is also a reference to [Wallace Ford](https://en.wikipedia.org/wiki/Wallace_Ford). I used Google Docs OCR to obtain the text of this sermon._
+_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=2) in the Revised Common Lectionary. There is a reference to a psychologist named Robert Mowrer, but I think that he is referring to [Orval Hobart Mowrer](https://en.wikipedia.org/wiki/Orval_Hobart_Mowrer). There is also a reference to [Wallace Ford](https://en.wikipedia.org/wiki/Wallace_Ford). I used Google Docs OCR to obtain the text of this sermon._
 
 **The Gift of Change - 2 Advent B - 12/6/1987**
 

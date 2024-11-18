@@ -17,7 +17,7 @@ _Here is a handwritten sermon, fresh from 1977. The sermon date is noted as 10/2
 
 <!--more-->
 
-_Although the listed lectionary is 21 Pent C, the Gospel text now lines up with [The 18th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=283). In this sermon, there is also a lovely story about a thank you note given to a teacher._
+_Although the listed lectionary is 21 Pent C, the Gospel text now lines up with [The 18th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=p&d=79). In this sermon, there is also a lovely story about a thank you note given to a teacher._
 
 
 ONE WHO SAYS THANKS (10/23/77) -- Luke 17:11-19

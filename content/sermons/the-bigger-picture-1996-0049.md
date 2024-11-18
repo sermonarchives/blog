@@ -16,7 +16,7 @@ _This is the last Christmas Day sermon that my father preached.  It was preached
 
 <!--more-->
 
-_The gospel text is John 1:1-14, which is the [Christmas Day text for all three years in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=54)._
+_The gospel text is John 1:1-14, which is the [Christmas Day text for all three years in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=7)._
 
 _He mentions a small Bavarian village in Washington in the sermon. That village is [Leavenworth, Washington](https://www.atlasobscura.com/places/leavenworths-bavarian-village)._
 

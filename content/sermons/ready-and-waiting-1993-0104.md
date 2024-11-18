@@ -17,7 +17,7 @@ _This is a typed Pentecost sermon from 1993 with yellow highlighting. It was pre
 
 <!--more-->
 
-_The gospel text is listed as Matthew 25: 1-13, which does correlate to the [24th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=168) in the Revised Common Lectionary. Google Docs OCR was used to get a transcription of the scanned sermon._
+_The gospel text is listed as Matthew 25: 1-13, which does correlate to the [24th Sunday After Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=84) in the Revised Common Lectionary. Google Docs OCR was used to get a transcription of the scanned sermon._
 
 **Ready and Waiting - 24 Pent A - 1/14/1993**
 

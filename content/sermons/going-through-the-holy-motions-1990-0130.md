@@ -17,7 +17,7 @@ _Here is a typed sermon from 1990 Christmas season, preached on December 30, 199
 
 <!--more-->
 
-_The sermon makes reference to both a football coach and basketball practice, making this one of the most sports-filled sermons that I have seen so far. The gospel text of Luke 2:39-40 correlates to the [First Sunday after Christmas](https://lectionary.library.vanderbilt.edu/texts.php?id=55) in the Revised Common Lectionary._
+_The sermon makes reference to both a football coach and basketball practice, making this one of the most sports-filled sermons that I have seen so far. The gospel text of Luke 2:39-40 correlates to the [First Sunday after Christmas](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=8) in the Revised Common Lectionary._
 
 **Going Through the Holy Motions - 1 Christmas B - 12/30/1990**
 

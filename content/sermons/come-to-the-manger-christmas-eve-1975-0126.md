@@ -17,7 +17,7 @@ _This is a handwritten Christmas Eve sermon from 1975. It is handwritten in penc
 
 <!--more-->
 
-_The gospel text is from Luke 2.  Since the year of this sermon is 1975, I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=52) in the Revised Common Lectionary._
+_The gospel text is from Luke 2.  Since the year of this sermon is 1975, I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=5) in the Revised Common Lectionary._
 
 **Come to the Manger - Christmas Eve - 12/24/1975**
 

@@ -17,7 +17,7 @@ _Here is a handwritten sermon from 1975, written in blue ink with highlights in 
 
 <!--more-->
 
-_The sermon specifically mentions Ascension by name, meaning that this was preached at [Ascension Lutheran in Navarino, WI](http://www.ascensionavarino.com/). Although the sermon lists "26th Pent" as the lectionary, the gospel text is listed as Matthew 23: 1-12, which now correlates to the [23rd Sunday After Pentecost of Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=167) in the Revised Common Lectionary._
+_The sermon specifically mentions Ascension by name, meaning that this was preached at [Ascension Lutheran in Navarino, WI](http://www.ascensionavarino.com/). Although the sermon lists "26th Pent" as the lectionary, the gospel text is listed as Matthew 23: 1-12, which now correlates to the [23rd Sunday After Pentecost of Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=82) in the Revised Common Lectionary._
 
 **Something Missing in Religion - 24 Pent A - 11/16/1975**
 

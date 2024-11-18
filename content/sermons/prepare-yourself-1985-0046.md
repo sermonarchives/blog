@@ -16,7 +16,7 @@ _This is an advent sermon from 1985, likely preached at St. Stephen Lutheran Chu
 
 <!--more-->
 
-_The gospel text is Luke 21:36, which means that this text matches up with the [First Sunday of Advent in Year C](https://lectionary.library.vanderbilt.edu/texts.php?id=95) of the Revised Common Lectionary._
+_The gospel text is Luke 21:36, which means that this text matches up with the [First Sunday of Advent in Year C](https://lectionary.library.vanderbilt.edu/texts/?z=a&d=1&y=384) of the Revised Common Lectionary._
 
 # **Prepare Yourself - 1 Advent C (12/l/85) Luke 21:36**
 

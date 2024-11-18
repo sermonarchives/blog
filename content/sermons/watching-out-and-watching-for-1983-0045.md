@@ -16,7 +16,7 @@ _This is an Advent sermon from 1983.  It mentions missing the boat on buying App
 
 <!--more-->
 
-_The gospel text for this sermon is Matthew 24:42, which likely puts it into the [First Sunday of Advent in year A](https://lectionary.library.vanderbilt.edu/texts.php?id=1) of the Revised Common Lectionary._
+_The gospel text for this sermon is Matthew 24:42, which likely puts it into the [First Sunday of Advent in year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=a&d=1) of the Revised Common Lectionary._
 
 # **WATCHING OUT AND WATCHING FOR - 1 Advent A (11/27/1983)**
 

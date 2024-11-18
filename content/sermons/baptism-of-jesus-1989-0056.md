@@ -17,7 +17,7 @@ _Printed and highlighted sermon from 1989. There does not appear to be a title. 
 
 <!--more-->
 
-_Sermon text listed as Luke 3:21-22, for [The Baptism of The Lord](https://lectionary.library.vanderbilt.edu/texts.php?id=107). At the end, it references a hymn, which likely followed it in the service. The hymn is LBW Hymn 194, [All Who Believe and Are Baptized](https://hymnary.org/hymn/LBoW1978/194)._
+_Sermon text listed as Luke 3:21-22, for [The Baptism of The Lord](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=13). At the end, it references a hymn, which likely followed it in the service. The hymn is LBW Hymn 194, [All Who Believe and Are Baptized](https://hymnary.org/hymn/LBoW1978/194)._
 
 {{< figure src="/images/sermons/0056/1EpiphC-1-8-1989-1-scaled.jpg" width="1200" >}}
 
