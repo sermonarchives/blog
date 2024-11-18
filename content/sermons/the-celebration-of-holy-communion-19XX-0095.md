@@ -17,7 +17,7 @@ _This is an undated sermon from the season of Pentecost. It is partially typed, 
 
 <!--more-->
 
-_The gospel lesson of [Matthew 21:33-44](https://lectionary.library.vanderbilt.edu/texts.php?id=162#gospel_reading) would make this sermon fit into the [19th Sunday after Pentecost of year A](https://lectionary.library.vanderbilt.edu/texts.php?id=162)._
+_The gospel lesson of Matthew 21:33-44 would make this sermon fit into the [19th Sunday after Pentecost of year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=78)._
 
 **THE CELEBRATION OF HOLY COMMUNION - 19 Pent A - 19XX**
 

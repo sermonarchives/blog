@@ -16,7 +16,7 @@ _This is a handwritten sermon from October of 1978._
 
 <!--more-->
 
-_The gospel text is listed as Matthew 21, and the sermon itself indicated the 20th Sunday after Pentecost (10/1/1978), but Matthew 21 is the gospel for the [17th](https://lectionary.library.vanderbilt.edu/texts.php?id=161) and [18th Sunday after Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=162) in Year A of the Revised Common Lectionary._
+_The gospel text is listed as Matthew 21, and the sermon itself indicated the 20th Sunday after Pentecost (10/1/1978), but Matthew 21 is the gospel for the [17th](https://lectionary.library.vanderbilt.edu/texts.php?id=161) and [19th Sunday after Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=78) in Year A of the Revised Common Lectionary._
 
 **God and His Tenants - 10/1/1978**
 
