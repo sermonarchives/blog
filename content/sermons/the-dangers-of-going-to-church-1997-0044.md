@@ -16,7 +16,7 @@ _This is a sermon from Emmanuel Lutheran Church.  It's from January of 1997.  Au
 
 <!--more-->
 
-_The gospel text is 1 Samuel 3:1-10 and 11-20, which makes this the text for either the [Second Sunday after Epiphany](https://lectionary.library.vanderbilt.edu//texts.php?id=61) or the [Second Sunday after Pentecost](https://lectionary.library.vanderbilt.edu//texts.php?id=204) in Year B of the Revised Common Lectionary._
+_The gospel text is 1 Samuel 3:1-10 and 11-20, which makes this the text for either the [Second Sunday after Epiphany](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=e&d=14) or the [Second Sunday after Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=p&d=58) in Year B of the Revised Common Lectionary._
 
 _There is also a story about [Andrew Young](https://www.biography.com/people/andrew-young-jr-9539326) in this sermon._
 
