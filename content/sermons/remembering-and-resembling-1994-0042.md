@@ -16,7 +16,7 @@ _This sermon is from All Saints Day of 1994, and was preached at Carthage Colleg
 
 <!--more-->
 
-_The gospel text is listed as Luke 5:1-12, which actually matches the [Fifth Sunday After The Epiphany C](https://lectionary.library.vanderbilt.edu/texts.php?id=111) in the Revised Common Lectionary._
+_The gospel text is listed as Luke 5:1-12, which actually matches the [Fifth Sunday After The Epiphany C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=e&d=18) in the Revised Common Lectionary._
 
 **Remembering And Resembling - All Saints Day (11/1/1994)**
 
