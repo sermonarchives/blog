@@ -16,7 +16,7 @@ _This Lenten sermon is from 1992 and appears to be printed out from a computer, 
 
 <!--more-->
 
-_The Gospel text is listed as Luke 13:1-9, corresponding to the [Third Sunday of Lent in year C](https://lectionary.library.vanderbilt.edu/texts.php?id=119) of the Revised Common Lectionary. He refers to [Isaac Watts](https://www.christianitytoday.com/history/people/poets/isaac-watts.html), who is a historical figure and hymn writer. At the conclusion of the sermon, [LBW Hymn 446](https://hymnary.org/hymn/LBoW1978/446) is listed._
+_The Gospel text is listed as Luke 13:1-9, corresponding to the [Third Sunday of Lent in year C](https://lectionary.library.vanderbilt.edu/texts/?z=l&d=26&y=384) of the Revised Common Lectionary. He refers to [Isaac Watts](https://www.christianitytoday.com/history/people/poets/isaac-watts.html), who is a historical figure and hymn writer. At the conclusion of the sermon, [LBW Hymn 446](https://hymnary.org/hymn/LBoW1978/446) is listed._
 
 # From Repentance to Hope
 
