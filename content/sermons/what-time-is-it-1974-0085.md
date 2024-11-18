@@ -17,7 +17,7 @@ _Here a typed sermon from 1974 with liberal notes in blue and red ink. We've mov
 
 <!--more-->
 
-_The Gospel text is [Matthew 24:37-44.](https://lectionary.library.vanderbilt.edu/texts.php?id=1). He included the quote "To the fool, everything is a surprise", which he attributed to [Sam Ervin](https://en.wikipedia.org/wiki/Sam_Ervin)._
+_The Gospel text is [Matthew 24:37-44.](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=a&d=1). He included the quote "To the fool, everything is a surprise", which he attributed to [Sam Ervin](https://en.wikipedia.org/wiki/Sam_Ervin)._
 
 **What Time Is It? - 1 Advent A- 12/1/1974**
 
