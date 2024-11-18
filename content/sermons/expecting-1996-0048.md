@@ -18,7 +18,7 @@ _This is an Advent sermon from 1996. Audio is available for the sermon, as well 
 
 _This sermon mentions the novel_ [Baby Love by Joyce Mayrand](https://www.goodreads.com/book/show/1026629.Baby_Love).
 
-_The Gospel text is listed as Luke 1:37, which fits in with the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=51)._
+_The Gospel text is listed as Luke 1:37, which fits in with the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=4)._
 
 _The context of this sermon is important to understand before listening.  At this point, Pastor Larson has already been diagnosed with terminal metastatic cancer.  He is scheduled to travel to Milwaukee for chemotherapy between Christmas and the New Year. Expectation has a different meaning here._
 

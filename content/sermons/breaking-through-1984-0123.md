@@ -17,7 +17,7 @@ _Here is a typed Advent sermon from December of 1984. There appear to be some co
 
 <!--more-->
 
-_The Gospel text from Luke 1 would link this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=51) of the Revised Common Lectionary. The sermon also mentions a book called [The Strong Name](https://www.goodreads.com/book/show/3340146-the-strong-name) by [James S. Stewart](https://en.wikipedia.org/wiki/James_Stewart_%28minister%2C_born_1896%29), originally published in 1941. I was able to find a scanned copy of this book on the Internet Archive, so you can read it [here](https://archive.org/details/strongname0000jame/page/n5/mode/2up). I used OCR though Google Docs to obtain a transcription of this typed sermon._
+_The Gospel text from Luke 1 would link this sermon to [the Fourth Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=4) of the Revised Common Lectionary. The sermon also mentions a book called [The Strong Name](https://www.goodreads.com/book/show/3340146-the-strong-name) by [James S. Stewart](https://en.wikipedia.org/wiki/James_Stewart_%28minister%2C_born_1896%29), originally published in 1941. I was able to find a scanned copy of this book on the Internet Archive, so you can read it [here](https://archive.org/details/strongname0000jame/page/n5/mode/2up). I used OCR though Google Docs to obtain a transcription of this typed sermon._
 
 **Breaking Through - 4 Advent B - 12/23/1984**
 

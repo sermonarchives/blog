@@ -16,7 +16,7 @@ _This is a typed Advent sermon from 1987. I used optical character recognition f
 
 <!--more-->
 
-_The sermon text is listed as 2 Samuel 7:15-16, which is not a gospel text, but is a part of the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu//texts.php?id=51)._
+_The sermon text is listed as 2 Samuel 7:15-16, which is not a gospel text, but is a part of the [Fourth Sunday of Advent B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=4)._
 
 # **BUILDING A HOUSE : 4 Advent B (12/19/87) 2 Samuel 7:15-16**
 
