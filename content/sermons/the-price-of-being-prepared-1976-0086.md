@@ -17,7 +17,7 @@ _This sermon is typed on blue paper with notations and additions in red ink, dat
 
 <!--more-->
 
-_The Gospel text is listed as [Luke 3:1-6](https://lectionary.library.vanderbilt.edu/texts.php?id=2), which corresponds to The Second Sunday of Advent in Year C. There are references to [Billy Graham](https://en.wikipedia.org/wiki/Billy_Graham) and [Dwight Moody](https://en.wikipedia.org/wiki/Dwight_L._Moody) in this sermon. After the sermon, it lists [Even So, Lord Jesus, Come](https://hymnary.org/text/even_so_lord_jesus_come).  I'll post a Youtube video of the song after the sermon text._
+_The Gospel text is listed as [Luke 3:1-6](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=a&d=2), which corresponds to The Second Sunday of Advent in Year C. There are references to [Billy Graham](https://en.wikipedia.org/wiki/Billy_Graham) and [Dwight Moody](https://en.wikipedia.org/wiki/Dwight_L._Moody) in this sermon. After the sermon, it lists [Even So, Lord Jesus, Come](https://hymnary.org/text/even_so_lord_jesus_come).  I'll post a Youtube video of the song after the sermon text._
 
 **THE PRICE OF BEING PREPARED - 2 Advent A - 12/5/1976**
 
