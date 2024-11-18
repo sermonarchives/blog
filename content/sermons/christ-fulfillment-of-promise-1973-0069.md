@@ -17,7 +17,7 @@ Here is a handwritten sermon from the first Sunday after Christmas in 1973. It s
 
 <!--more-->
 
-Apparently, it was Student Recognition Sunday! The listed gospel text is Luke 2:25-38.  This would likely put it in [1 Christmas B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=55).
+Apparently, it was Student Recognition Sunday! The listed gospel text is Luke 2:25-38.  This would likely put it in [1 Christmas B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=8).
 
 **Christ - Fulfillment of Promise - First Sunday After Christmas- (12/30/1973)**
 
