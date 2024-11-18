@@ -16,7 +16,7 @@ _This sermon was written on the last day of 1995 for the First Sunday of Christm
 
 <!--more-->
 
-_The gospel text is listed as Matthew 2: 13-23 and the filename of the sermon in Wordperfect was "1CHRISTA.95", so this is almost certainly a sermon from [Year A of the First Sunday of Christmas in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=8)._
+_The gospel text is listed as Matthew 2: 13-23 and the filename of the sermon in Wordperfect was "1CHRISTA.95", so this is almost certainly a sermon from [Year A of the First Sunday of Christmas in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=c&d=8)._
 
 # **Hindsight: The First Sunday after Christmas - 12/31/1995**
 
