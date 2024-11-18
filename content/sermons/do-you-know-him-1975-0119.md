@@ -17,7 +17,7 @@ _Here is a handwritten Advent sermon from December of 1975. It's written in blac
 
 <!--more-->
 
-_The gospel message from John 1 and the notation of "Advent III" correspond this sermon to the [third Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=50) of the Revised Common Lectionary. There's a story about the pastor of the church of President [FDR](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt). There's also a story about [Deborah Kerr](https://en.wikipedia.org/wiki/Deborah_Kerr) and her participation in the 1951 movie [Quo Vadis](https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film))._
+_The gospel message from John 1 and the notation of "Advent III" correspond this sermon to the [third Sunday of Advent in Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=3) of the Revised Common Lectionary. There's a story about the pastor of the church of President [FDR](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt). There's also a story about [Deborah Kerr](https://en.wikipedia.org/wiki/Deborah_Kerr) and her participation in the 1951 movie [Quo Vadis](https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film))._
 
 **Do you know Him? - 3 Advent B - 12/14/1975**
 
