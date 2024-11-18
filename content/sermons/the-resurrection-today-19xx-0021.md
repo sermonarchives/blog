@@ -17,7 +17,7 @@ _Typed sermon, undated. The typed and highlighted sermons from this collection a
 <!--more-->
 
 
-_A gospel from Luke 24 means that this sermon is either from [Easter Evening](http://lectionary.library.vanderbilt.edu/texts.php?id=39) or the [Third Sunday of Easter A](http://lectionary.library.vanderbilt.edu/texts.php?id=41)._
+_A gospel from Luke 24 means that this sermon is either from [Easter Evening](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=s&d=43) or the [Third Sunday of Easter A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=s&d=45)._
 
 **The Resurrection Today - Easter**
 
