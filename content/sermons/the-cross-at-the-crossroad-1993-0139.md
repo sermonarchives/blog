@@ -17,7 +17,7 @@ _Here is a typed sermon from Lent of 1993 It includes a callout for confirmation
 
 <!--more-->
 
-_He references learning German in college, which is a fact that I did not remember.  He also mentions [Pastor Bruce Larson](https://www.seattlepi.com/seattlenews/article/bruce-larson-1925-2008-pastor-hailed-as-1295155.php), calling him "the famous Pastor Larson". The gospel is Mark 8:31-38, corresponding with the [Second Sunday in Lent](https://lectionary.library.vanderbilt.edu/texts.php?id=72)._
+_He references learning German in college, which is a fact that I did not remember.  He also mentions [Pastor Bruce Larson](https://www.seattlepi.com/seattlenews/article/bruce-larson-1925-2008-pastor-hailed-as-1295155.php), calling him "the famous Pastor Larson". The gospel is Mark 8:31-38, corresponding with the [Second Sunday in Lent](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=26)._
 
 **The Cross At the Crossroad - 2 Lent B - 02/27/1993**
 
