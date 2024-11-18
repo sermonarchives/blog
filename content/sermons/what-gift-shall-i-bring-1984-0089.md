@@ -17,7 +17,7 @@ _Here is a typed Epiphany sermon from 1984. Because the typed text is pretty cle
 
 <!--more-->
 
-_The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=12)._
+_The Gospel text is from Matthew, making this part of Epiphany in Year A in the [Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=e&d=12)._
 
 _There is a poem in second half of the sermon, and I'm pretty surethat the poem is "Advent" by poet [John Gould Fletcher](https://www.poetryfoundation.org/poets/john-gould-fletcher). He included this poem in a Epiphany sermon in 1974, as well. I found an old printing of the poem in an [old book from 1920 on Google Books](https://www.google.com/books/edition/_/TSCYOcOKxncC?hl=en&gbpv=1&bsq=Advent%20John%20Gould%20Fletcher), so I'm going to include that page below._
 
