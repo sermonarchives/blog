@@ -17,7 +17,7 @@ _Here is typed Christmas Eve sermon from 1981 with notes in light blue. There ar
 
 <!--more-->
 
-_The gospel text is from Luke 2.  Since the year of this sermon is 1981, I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=52) in the Revised Common Lectionary._
+_The gospel text is from Luke 2.  Since the year of this sermon is 1981, I'm going to guess that it was [Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=5) in the Revised Common Lectionary._
 
 **A SIGN FOR YOU - Christmas Eve - 12/24/1981**
 
