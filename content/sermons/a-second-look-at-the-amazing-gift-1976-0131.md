@@ -17,7 +17,7 @@ _Here is a handwritten sermon from January of 1976, for the second Sunday of Chr
 
 <!--more-->
 
-_The gospel of this sermon isn't listed at the top but John is mentioned in the sermon, so presumably it is the text for [the second Sunday after Christmas B](https://lectionary.library.vanderbilt.edu/texts.php?id=58)._
+_The gospel of this sermon isn't listed at the top but John is mentioned in the sermon, so presumably it is the text for [the second Sunday after Christmas B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=11)._
 
 **A Second Look at the Amazing Gift - 2 Christmas B - 1/4/1976**
 
