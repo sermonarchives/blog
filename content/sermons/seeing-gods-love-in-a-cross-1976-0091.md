@@ -17,7 +17,7 @@ _This is a handwritten Lenten sermon with words in blue ink and markup in red. I
 
 <!--more-->
 
-_The gospel text is listed as John 3:14. The sermon is listed as "Lent 4", but the modern equivalent for this text is the [Second Sunday of Lent in Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=25) of the Revised Common Lectionary._
+_The gospel text is listed as John 3:14. The sermon is listed as "Lent 4", but the modern equivalent for this text is the [Second Sunday of Lent in Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=l&d=26) of the Revised Common Lectionary._
 
 **Seeing God's Love in a Cross - Lent - 03/28/1976**
 
