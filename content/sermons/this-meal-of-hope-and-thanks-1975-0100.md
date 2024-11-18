@@ -17,7 +17,7 @@ _Here is a handwritten sermon from 1975 for All Saints Day._
 
 <!--more-->
 
-_The gospel message is from Matthew 5, which corresponds to the All Saints Day text for [Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=166) in the Revised Common Lectionary. Also, as a personal note, this is the 100th sermon that I've archived on this site._
+_The gospel message is from Matthew 5, which corresponds to the All Saints Day text for [Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=83) in the Revised Common Lectionary. Also, as a personal note, this is the 100th sermon that I've archived on this site._
 
 **This Meal of Hope and Thanks - All Saints Day - 11/02/1975**
 
