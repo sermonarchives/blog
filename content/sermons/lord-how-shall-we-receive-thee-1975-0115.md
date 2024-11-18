@@ -17,7 +17,7 @@ _This is a handwritten Advent sermon from 1975. It is written in black pen with 
 
 <!--more-->
 
-_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=49) in the Revised Common Lectionary. The sermon's title and opening paragraph make reference to the hymn [Ah! Lord, how shall I meet Thee](https://hymnary.org/text/o_lord_how_shall_i_meet_thee) by [Paul Gerhardt](https://en.wikipedia.org/wiki/Paul_Gerhardt) preceding this sermon.  I will include a link to a performance of the hymn on this page after the sermon._
+_The gospel text of Mark 1 corresponds to the [Second Sunday of Advent, Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=a&d=2) in the Revised Common Lectionary. The sermon's title and opening paragraph make reference to the hymn [Ah! Lord, how shall I meet Thee](https://hymnary.org/text/o_lord_how_shall_i_meet_thee) by [Paul Gerhardt](https://en.wikipedia.org/wiki/Paul_Gerhardt) preceding this sermon.  I will include a link to a performance of the hymn on this page after the sermon._
 
 **Lord, How Shall We Receive Thee? - 2 Advent B - 12/7/1975**
 
