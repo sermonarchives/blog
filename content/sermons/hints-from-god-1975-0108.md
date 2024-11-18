@@ -17,7 +17,7 @@ _Here is a handwritten sermon from November of 1975.  The sermon was written on 
 
 <!--more-->
 
-_The gospel text is Mathew 25:14-30, which includes the "weeping and gnashing of teeth". It corresponds to the [25th Sunday after Pentecost](https://lectionary.library.vanderbilt.edu/texts.php?id=169) for year A in the Revised Common Lectionary. The sermon includes a quote from [Soren Kierkegaard](https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard)._
+_The gospel text is Mathew 25:14-30, which includes the "weeping and gnashing of teeth". It corresponds to the [25th Sunday after Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=85) for year A in the Revised Common Lectionary. The sermon includes a quote from [Soren Kierkegaard](https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard)._
 
 **Hints From God - 25 Pent A - 11/9/1975**
 
