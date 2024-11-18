@@ -17,7 +17,7 @@ _This handwritten sermon from 1978 starts with a pretty good joke. It's written 
 
 <!--more-->
 
-_The sermon addresses the [Jonestown Massacre](https://en.wikipedia.org/wiki/Jonestown), which occurred on November 19, 1978. The gospel text from Matthew places this sermon as the last sermon for year A, [Christ The King Sunday](https://lectionary.library.vanderbilt.edu/texts.php?id=170), which is now also known as "Reign of Christ" in the Revised Common Lectionary._
+_The sermon addresses the [Jonestown Massacre](https://en.wikipedia.org/wiki/Jonestown), which occurred on November 19, 1978. The gospel text from Matthew places this sermon as the last sermon for year A, [Christ The King Sunday](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=86), which is now also known as "Reign of Christ" in the Revised Common Lectionary._
 
 **Christ The King - Christ The King Sunday - 11/26/1978**
 

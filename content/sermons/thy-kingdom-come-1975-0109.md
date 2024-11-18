@@ -17,7 +17,7 @@ _This is a sermon from 1975 for Christ The King Sunday, handwritten in blue pen 
 
 <!--more-->
 
-_There is a reference to [The Late Great Planet Earth](https://en.wikipedia.org/wiki/The_Late_Great_Planet_Earth) near the start of this sermon, which was published in 1970. The gospel text from Matthew corresponds to the [Christ The King/Reign of Christ Sunday in Year A](https://lectionary.library.vanderbilt.edu/texts.php?id=170) in the RCL._
+_There is a reference to [The Late Great Planet Earth](https://en.wikipedia.org/wiki/The_Late_Great_Planet_Earth) near the start of this sermon, which was published in 1970. The gospel text from Matthew corresponds to the [Christ The King/Reign of Christ Sunday in Year A](https://lectionary.library.vanderbilt.edu/texts/?y=17134&z=p&d=86) in the RCL._
 
 **Thy Kingdom Come - Christ The King Sunday - 11/23/1975**
 
