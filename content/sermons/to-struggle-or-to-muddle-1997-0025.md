@@ -16,7 +16,7 @@ _Audio is available for this sermon, as well as text.  It was preached for the F
 
 <!--more-->
 
-_The gospel text is listed as Mark 1:12-13  This sermon follows the text for the [First Sunday of Lent, Year B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts.php?id=71)_
+_The gospel text is listed as Mark 1:12-13  This sermon follows the text for the [First Sunday of Lent, Year B in the Revised Common Lectionary](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=l&d=25)_
 
 _There is an interesting reference to ["The Screwtape Letters" by C.S. Lewis](https://en.wikipedia.org/wiki/The_Screwtape_Letters)._
 
