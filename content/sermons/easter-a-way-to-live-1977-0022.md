@@ -16,7 +16,7 @@ _Scanned, handwritten sermon. No gospel text noted, though it does note "Easter 
 
 <!--more-->
 
-_The sermon notes a verse 11 with Mary Magdalene, which is likely from the gospel text of John 20:1-18 or Luke 24:1-12, used in [Easter C](http://lectionary.library.vanderbilt.edu/texts.php?id=132)._
+_The sermon notes a verse 11 with Mary Magdalene, which is likely from the gospel text of John 20:1-18 or Luke 24:1-12, used in [Easter C](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=s&d=42)._
 
 **Easter: A Way To Live - Easter Festival - 4/10/1977**
 
