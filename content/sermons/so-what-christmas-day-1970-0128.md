@@ -17,7 +17,7 @@ _Here is a Christmas Day sermon from "Intern Larson" during his internship in 19
 
 <!--more-->
 
-_I'm not sure how many sermons I have found from [Ascension Lutheran](https://www.alcrpv.org/) in Rolling Hills, California, since his next call was also to a church named Ascension. The sermon starts with a reference to [Peanuts](https://peanuts.fandom.com/wiki/Peanuts) and goes through an array of references to Biblical characters. The gospel text is from Luke 2.  I'm going to guess that the Christmas text was [Year B](https://lectionary.library.vanderbilt.edu/texts.php?id=52) in the Revised Common Lectionary._
+_I'm not sure how many sermons I have found from [Ascension Lutheran](https://www.alcrpv.org/) in Rolling Hills, California, since his next call was also to a church named Ascension. The sermon starts with a reference to [Peanuts](https://peanuts.fandom.com/wiki/Peanuts) and goes through an array of references to Biblical characters. The gospel text is from Luke 2.  I'm going to guess that the Christmas text was [Year B](https://lectionary.library.vanderbilt.edu/texts/?y=382&z=c&d=5) in the Revised Common Lectionary._
 
 
 
