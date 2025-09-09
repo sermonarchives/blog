@@ -4,7 +4,7 @@ date: 2023-01-13T02:40:58Z
 categories: ["sermons"]
 tags: ["Epiphany", "typed", "1984", "John-Gould-Fletcher", "gifts"]
 rcl_year: "A"
-rcl_season: "Ephiphany"
+rcl_season: "Epiphany"
 sermon_date: 1984-01-06
 sermon_scan: true
 sermon_text: true
