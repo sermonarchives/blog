@@ -53,8 +53,13 @@
       </header>
       <div>
         <ul class="terms">
-          {{ range (index $params $key) }}
-          <li><a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ . | urlize }}/">{{ . }}</a></li>
+          {{ $paramValue := index $params $key }}
+          {{ if reflect.IsSlice $paramValue }}
+            {{ range $paramValue }}
+            <li><a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ . | urlize }}/">{{ . }}</a></li>
+            {{ end }}
+          {{ else }}
+            <li><a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ $paramValue | urlize }}/">{{ $paramValue }}</a></li>
           {{ end }}
         </ul>
       </div>

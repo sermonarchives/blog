@@ -1,0 +1,24 @@
+{{ define "title" }}{{ .Title }} - {{ end }}
+
+{{ define "main" }}
+<div class="mrow">
+  <div class="mcol c8">
+
+    <header class="page-title">
+      <h1 class="title">{{ .Title }}</h1>
+    </header>
+
+    <div class="articles">
+      {{ range .Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+
+  </div>
+  <div class="mcol c4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ end }}
