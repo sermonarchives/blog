@@ -4,7 +4,7 @@ date: 2023-11-25T17:24:00Z
 categories: ["sermons"]
 tags: ["the-late-great-earth", "christ-the-king", "handwritten", "1975"]
 rcl_year: "A"
-rcl_season: "Pentcost"
+rcl_season: "Pentecost"
 sermon_date: 1975-11-23
 sermon_scan: true
 sermon_text: false

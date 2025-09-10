@@ -4,7 +4,7 @@ date: 2023-01-12T01:48:24Z
 categories: ["sermons"]
 tags: ["Epiphany", "1974", "John-Gould-Fletcher"]
 rcl_year: "A"
-rcl_season: "Ephiphany"
+rcl_season: "Epiphany"
 sermon_date: 1974-01-06
 sermon_scan: true
 sermon_text: false
@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0088/Epiphany-1-6-1974.jpg"
 sermon_number: "0088"
 ---
 
-_Here is a typed Ephiphany sermon from 1974 with annotations in green, red, and blue ink._
+_Here is a typed Epiphany sermon from 1974 with annotations in green, red, and blue ink._
 
 <!--more-->
 
