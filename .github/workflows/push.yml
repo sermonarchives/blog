@@ -16,4 +16,4 @@ jobs:
         GITHUB_REMOTE_REPOSITORY: "sermonarchives/sermonarchives.github.io"
         GITHUB_BRANCH: master
         GIT_DEPLOY_KEY: ${{ secrets.DEPLOY_KEY_PRIVATE }}
-        HUGO_VERSION: "0.68.3"
+        HUGO_VERSION: "0.129.0"

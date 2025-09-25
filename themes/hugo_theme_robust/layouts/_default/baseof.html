@@ -20,14 +20,7 @@
 {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
 {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
     </style>
-{{ if and .Site.GoogleAnalytics (ne (getenv "HUGO_ENV") "DEV") }}
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', {{ .Site.GoogleAnalytics }}, 'auto', {'useAmpClientId': true});
-ga('send', 'pageview');
-</script>
-{{ end }}
+
   </head>
   <body>
     <header class="l-header">
