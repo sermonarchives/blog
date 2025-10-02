@@ -2,7 +2,7 @@ baseURL = "https://sermonarchives.github.io/"
 languageCode = "en-us"
 title = "Sermon Archives"
 theme = "hugo_theme_robust"
-googleAnalytics = "UA-106741233-1" # Optional
+
 
 [params]
   dateformat = "Jan 2, 2006" # Optional
