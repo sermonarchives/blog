@@ -7,7 +7,7 @@ rcl_year: "C"
 rcl_season: "Pentecost"
 sermon_date: 19XX
 sermon_scan: true
-sermon_text: true
+sermon_text: false
 sermon_audio: false
 thumbnail: "/images/thumbs/hands.jpg"
 sermon_number: "0149"
