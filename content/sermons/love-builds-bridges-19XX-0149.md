@@ -9,7 +9,7 @@ sermon_date: 19XX
 sermon_scan: true
 sermon_text: true
 sermon_audio: false
-thumbnail: "/images/thumbs/pastorlarson.png"
+thumbnail: "/images/thumbs/hands.jpg"
 sermon_number: "0149"
 ---
 
