@@ -2,6 +2,7 @@
 
 Here's the typical process for adding a sermon to the archive.
 
+
 ## Starting off
 To start, open four websites in separate tabs:
 * Vanderbilt's [Revised Common Lectionary Library](https://lectionary.library.vanderbilt.edu/)
@@ -21,8 +22,42 @@ To start, open four websites in separate tabs:
 ## Prepare a sermon for posting.
 Now that you've selected a sermon, get ready to prepare information for it to be posted.  Read the sermon.  Are there any interesting references? Does it reference any current events of the time, politicians, or celebrities? Note them, as there is a "tags" section for posting.
 
+
+---
+
+## Automated Method (Recommended)
+
+A script has been created to automate some of the manual steps of adding a new sermon.
+
+**1. Prepare your files:**
+   - Place the scanned image(s) for the sermon (e.g., `my-image.jpg`) into the root of the `blog-1` project folder.
+
+**2. Run the script:**
+   - Open a terminal and make sure you are in the `blog-1` directory.
+   - If you haven't already, make the script executable (you only need to do this once):
+     ```bash
+     chmod +x newSermon.sh
+     ```
+   - Run the script with the sermon's title (in quotes) and its number:
+     ```bash
+     ./newSermon.sh "The Title of Your Sermon" 0091
+     ```
+
+**3. What the script does:**
+   - Creates the new sermon markdown file in `content/sermons/`.
+   - Creates a new image directory in `static/images/sermons/`.
+   - Moves the images from the root into the new directory.
+   - Appends the correct `figure` shortcode(s) to the markdown file.
+
+After running the script, you can skip directly to the "Filling out the front matter" and "Part 1: The sermon introduction" sections to add the sermon text and metadata.
+
+---
+
 ## Creating the page for the sermon.
-* Open the site in [Gitpod](https://gitpod.io/).
+
+> **Note:** The manual steps below have been automated. See the "Automated Method (Recommended)" section above for the preferred way to create new sermons.
+
+* Open the site in codespaces or your local development environment.
 * Go to /static/images/sermons/ and scroll down to the highest numbered directory.  That's the most recent sermon.  
 * This new sermon will be the next highest number. At the time of writing, we'll pretend that the highest number is 0089, so the next sermon would be 0090.
 * In the terminal, create the new sermon by typing `hugo new sermons/sermon-name-sermon-year-and-sermon-number.md`
