@@ -38,10 +38,15 @@ A script has been created to automate some of the manual steps of adding a new s
      ```bash
      chmod +x newSermon.sh
      ```
-   - Run the script with the sermon's title (in quotes) and its number:
-     ```bash
-     ./newSermon.sh "The Title of Your Sermon" 0091
-     ```
+   - Run the script with the sermon's title (in quotes). The sermon number is optional.
+     - **To auto-increment the sermon number:**
+       ```bash
+       ./newSermon.sh "The Title of Your Sermon"
+       ```
+     - **To specify a sermon number:**
+       ```bash
+       ./newSermon.sh "The Title of Your Sermon" 0150
+       ```
 
 **3. What the script does:**
    - Creates the new sermon markdown file in `content/sermons/`.
@@ -49,7 +54,7 @@ A script has been created to automate some of the manual steps of adding a new s
    - Moves the images from the root into the new directory.
    - Appends the correct `figure` shortcode(s) to the markdown file.
 
-After running the script, you can skip directly to the "Filling out the front matter" and "Part 1: The sermon introduction" sections to add the sermon text and metadata.
+After running the script, you still need to manually edit the new markdown file to fill out the front matter and add the sermon's text.
 
 ---
 
