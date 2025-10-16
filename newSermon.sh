@@ -7,10 +7,11 @@
 #
 # This script will:
 # 1. Create a new sermon markdown file using the archetype.
-# 2. Create a corresponding directory in /static/images/sermons/.
-# 3. Copy any images (.jpg, .jpeg, .png, .gif) from the project root to the new directory.
-# 4. Append a <figure> shortcode for each image to the new markdown file.
-# 5. Delete the original images from the root.
+# 2. Update the 'sermon_number' in the new file's front matter.
+# 3. Create a corresponding directory in /static/images/sermons/.
+# 4. Copy any images (.jpg, .jpeg, .png, .gif) from the project root to the new directory.
+# 5. Append a <figure> shortcode for each image to the new markdown file.
+# 6. Delete the original images from the root.
 
 # ---
 
@@ -25,7 +26,9 @@ TITLE=$1
 NUMBER=$2
 YEAR=$(date +%Y)
 
-# --- Auto-increment logic ---
+# ---
+# Auto-increment logic
+# ---
 if [ -z "$NUMBER" ]; then
     echo "Sermon number not provided. Finding the latest sermon number..."
     # Find the highest 4-digit directory name in static/images/sermons
@@ -43,7 +46,9 @@ if [ -z "$NUMBER" ]; then
         echo "Found latest number: $LATEST_NUMBER. New number will be: $NUMBER"
     fi
 fi
-# --- End auto-increment logic ---
+# ---
+# End auto-increment logic
+# ---
 
 
 # Sanitize title for filename (lowercase, spaces to hyphens)
@@ -63,11 +68,18 @@ if [ ! -f "$MARKDOWN_PATH" ]; then
     exit 1
 fi
 
-# 2. Create the corresponding image directory
+# 2. Update the sermon_number in the front matter of the new file
+echo "Updating sermon_number in front matter to ${NUMBER}..."
+# Use sed to do an in-place replacement.
+# The regex looks for `sermon_number: "..."` and replaces the value inside the quotes.
+sed -i 's/\(sermon_number: *\)"[^"]*"/\1"'"$NUMBER"'"/' "$MARKDOWN_PATH"
+
+
+# 3. Create the corresponding image directory
 echo "Creating image directory: ${IMAGE_DIR}"
 mkdir -p "${IMAGE_DIR}"
 
-# 3. Find, copy, and process images from the root directory
+# 4. Find, copy, and process images from the root directory
 echo "Looking for images in the root directory..."
 shopt -s nullglob
 IMAGES=(*.jpg *.jpeg *.png *.gif)
