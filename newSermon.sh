@@ -126,7 +126,7 @@ else
         # If it's a PDF, append a shortcode to embed it
         if [[ $DOC == *.pdf ]]; then
             PDF_PATH="/images/sermons/${NUMBER}/${DOC}"
-            SHORTCODE="{{< pdf \"${PDF_PATH}\" >}}"
+            SHORTCODE="{{< pdf src=\"${PDF_PATH}\" >}}"
             # Add a newline before the shortcode for better formatting
             echo "" >> "${MARKDOWN_PATH}"
             echo "${SHORTCODE}" >> "${MARKDOWN_PATH}"
