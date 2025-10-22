@@ -108,5 +108,37 @@ else
     done
 fi
 
+# 5. Find, copy, and process other documents (.odt, .pdf) from the root directory
+echo "Looking for documents (.odt, .pdf) in the root directory..."
+shopt -s nullglob
+DOCS=(*.odt *.pdf)
+
+if [ ${#DOCS[@]} -eq 0 ]; then
+    echo "No documents found in the root directory."
+else
+    for DOC in "${DOCS[@]}"; do
+        echo "  - Processing document: $DOC"
+
+        # Copy document to the new directory
+        cp "$DOC" "${IMAGE_DIR}/"
+        echo "    ...copied to ${IMAGE_DIR}/"
+
+        # If it's a PDF, append a shortcode to embed it
+        if [[ $DOC == *.pdf ]]; then
+            PDF_PATH="/images/sermons/${NUMBER}/${DOC}"
+            SHORTCODE="{{< pdf \"${PDF_PATH}\" >}}"
+            # Add a newline before the shortcode for better formatting
+            echo "" >> "${MARKDOWN_PATH}"
+            echo "${SHORTCODE}" >> "${MARKDOWN_PATH}"
+            echo "    ...appended PDF embed shortcode to ${MARKDOWN_PATH}"
+        fi
+
+        # Remove the original document
+        rm "$DOC"
+        echo "    ...removed original document from root."
+    done
+fi
+
+
 echo ""
 echo "Sermon creation process complete!"
