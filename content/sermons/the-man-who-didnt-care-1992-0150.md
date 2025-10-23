@@ -9,7 +9,7 @@ sermon_date: 1992-10-18
 sermon_scan: true
 sermon_text: false
 sermon_audio: false
-thumbnail: "/images/thumbs/pastorlarson.png"
+thumbnail: "/images/sermons/0150/19PentC-10-18-1992-1.jpg"
 sermon_number: "0150"
 ---
 
