@@ -13,7 +13,7 @@ thumbnail: "/images/sermons/0151/19pentc1995.png"
 sermon_number: "0151"
 ---
 
-_This is a 1995 Penecost sermon that I found on a 3.5 floppy disc. I was able to convert it to ODT and PDF format._
+_This is a 1995 Penecost sermon that I found on a 3.5 inch floppy disc. I was able to convert it to ODT and PDF format._
 
 <!--more-->
 
@@ -57,4 +57,4 @@ This sounds like only fire and brimstone today....that unless we change our ways
 
 +The peace of God....keep us close in the bosom of Abraham, and the arms of Jesus our Lord. Amen.
 
-{{< pdf src="/images/sermons/0151/19PENTC-TheManWhoDidntCare-1995-10-15-Luke16.pdf" >}}
+{{< pdf src="/images/sermons/0151/19PENTC-TheManWhoDidntCare-1995-10-15-Luke16.pdf" pages="3" >}}
