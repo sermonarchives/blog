@@ -45,7 +45,7 @@ Rufus Jones, the great Quaker preacher, tells of his struggle with self as a chi
 
 It pays to count the cost of doing anything well, from start to finish.  May God give us open eyes and minds to see where following Christ will lead us.  May we have also the 'finishative' to be faithful each day, each step along the way, not afraid to pay the cost of being Christ's disciples.            
 
-+ The peace of God......
++ The peace of God...... 
 
-{{< pdf src="/images/sermons/0148/0148-16PENTC-InitiativeAndFinishitive-1995-09-24-Luke14.pdf" >}}
+{{< pdf src="/images/sermons/0148/0148-16PENTC-InitiativeAndFinishitive-1995-09-24-Luke14.pdf" pages="2" >}}
 
