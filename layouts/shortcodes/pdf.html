@@ -1,1 +1,8 @@
-<embed src="{{ .Get "src" }}" width="100%" height="800px" type="application/pdf">
+{{ $pages := 2 }}
+{{ if .Get "pages" }}
+  {{ $pages = int (.Get "pages") }}
+{{ end }}
+{{ $height := mul 140 $pages }}
+<div class="pdf-container" style="padding-top: {{ $height }}%;">
+    <embed src="{{ .Get "src" }}" type="application/pdf">
+</div>
