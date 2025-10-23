@@ -5,7 +5,7 @@ categories: ["sermons"]
 tags: ["1995", "pentecost", "fiddler-on-the-roof", "stewardship"]
 rcl_year: "C"
 rcl_season: "Pentecost"
-sermon_date: 2025-10-22T18:42:09-05:00
+sermon_date: 1995-10-15
 sermon_scan: false
 sermon_text: true
 sermon_audio: false
